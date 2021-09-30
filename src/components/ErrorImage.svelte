@@ -4,6 +4,7 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   width="1032.24"
   height="832.63"
+  class="max-h-40"
 >
   <defs
     ><linearGradient

@@ -5,5 +5,9 @@
 </script>
 
 <Navbar />
-<slot />
+<div class="text-center font-serif items-center">
+  <main class="w-screen">
+    <slot />
+  </main>
+</div>
 <Footer />

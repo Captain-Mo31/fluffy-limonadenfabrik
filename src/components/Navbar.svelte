@@ -1,35 +1,41 @@
-<nav class="bg-white dark:bg-gray-800  shadow ">
+<nav
+  class="bg-yellow-400 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
+>
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex items-center justify-between h-16">
       <div class="w-full justify-between flex items-center">
         <a class="flex-shrink-0" href="/">
-          <img class="h-8 w-8" src="/icons/rocket.svg" alt="Workflow" />
+          <img
+            class="h-14 w-14 items-start"
+            src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-lemonade-drink-wanicon-lineal-color-wanicon.png"
+            alt="Icon Lemonade"
+          />
         </a>
         <div class="hidden md:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
-              class="text-gray-300  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-              href="/#"
+              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              href="/"
             >
               Home
             </a>
             <a
-              class="text-gray-800 dark:text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+              class=" dark:text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
               href="/about"
             >
-              About
+              Über uns
             </a>
             <a
-              class="text-gray-300  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
               href="/#"
             >
-              Content
+              Shop
             </a>
             <a
-              class="text-gray-300  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
               href="/#"
             >
-              Contact
+              Rezepte
             </a>
           </div>
         </div>
@@ -40,6 +46,7 @@
       <div class="-mr-2 flex md:hidden">
         <button
           class="text-gray-800 dark:text-white hover:text-gray-300 inline-flex items-center justify-center p-2 rounded-md focus:outline-none"
+          aria-label="Menu"
         >
           <svg
             width="20"
