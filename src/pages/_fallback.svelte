@@ -3,7 +3,7 @@
   import ErrorImage from "../components/ErrorImage.svelte";
 </script>
 
-<main class="bg-white relative overflow-hidden h-screen relative">
+<main class="bg-white  overflow-hidden h-screen relative">
   <header class="absolute top-0 left-0 right-0 z-20">
     <nav class="container mx-auto px-6 md:px-12 py-4">
       <div class="md:flex justify-between items-center">
