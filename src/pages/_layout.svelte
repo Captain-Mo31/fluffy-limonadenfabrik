@@ -5,7 +5,7 @@
 </script>
 
 <Navbar />
-<div class="text-center font-serif items-center w-full prose">
+<div class="text-center font-serif items-center w-full prose ">
   <main class="w-screen">
     <slot />
   </main>

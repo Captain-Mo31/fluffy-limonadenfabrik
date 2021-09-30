@@ -2,8 +2,8 @@
   <h1>Kontakt:</h1>
   <br />
   Fluffy GMBH<br />
-  Musterweg 65<br />
-  12345 Musterstadt <br />
+  Zur großen Erfrischung 1<br />
+  20359 Hamburg <br />
   <p>
     <strong>Vertreten durch: </strong><br />
     Arnold Weißenegger<br />
