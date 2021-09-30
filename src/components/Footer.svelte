@@ -8,7 +8,7 @@
       <li class="my-2">
         <a
           class="text-white hover:text-gray-800 dark:text-gray-300 dark:hover:text-white transition-colors duration-200"
-          href="#"
+          href="/impressum"
         >
           Impressum
         </a>
