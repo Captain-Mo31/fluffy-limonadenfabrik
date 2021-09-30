@@ -1,15 +1,15 @@
+<script>
+  import Logo from "./Logo.svelte";
+</script>
+
 <nav
   class="bg-yellow-400 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
 >
   <div class="max-w-7xl mx-auto px-8">
-    <div class="flex items-center justify-between h-16">
+    <div class="flex items-center justify-between h-24">
       <div class="w-full justify-between flex items-center">
-        <a class="flex-shrink-0" href="/">
-          <img
-            class="h-14 w-14 items-start"
-            src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-lemonade-drink-wanicon-lineal-color-wanicon.png"
-            alt="Icon Lemonade"
-          />
+        <a href="/" class="h-16 w-16 items-start m-2" alt="Icon Lemonade">
+          <Logo />
         </a>
         <div class="hidden md:block">
           <div class="ml-10 flex items-baseline space-x-4">

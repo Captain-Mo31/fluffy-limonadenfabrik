@@ -8,23 +8,35 @@
 <h1 class="text-center">Wilkommen bei Fluffy</h1>
 
 <div>
-  <h3>Aktuelles:</h3>
+  <h2>Aktuelles:</h2>
   <br />
-  <h4>Gewinnspiel:</h4>
+</div>
+<div
+  class="overflow-hidden shadow-lg rounded-lg h-90 w-2/4 cursor-pointer m-auto"
+>
+  <img
+    alt="Dartspiel Foto"
+    src="https://images.unsplash.com/photo-1628440501245-393606514a9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
+    class="max-h-40 w-full object-cover"
+  />
+  <div class="bg-white dark:bg-gray-800 w-full p-4">
+    <p class="text-gray-800 dark:text-white text-xl mb-2">Gewinnspiel</p>
+    <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+      Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
+    </p>
+    <ol>
+      <li>Eine Reise in den Harz</li>
+      <li>Ein Jahr ein Monatsabo an Limonade</li>
+      <li>Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH</li>
+    </ol>
 
-  <p>Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:</p>
-  <ol>
-    <li>Preis: Eine Reise in den Harz</li>
-    <li>Preis: Ein Jahr ein Monatsabo an Limonade</li>
-    <li>
-      Preis: Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH
-    </li>
-  </ol>
-
-  Teilnehmen kann jeder der mindestens 18 Jahre alt ist. Mitmachen kann man noch
-  bis zum 31.10.2021.
-  <br />
-  Die Preisfrage lautet: Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
-  <br />
-  <p><strong>Viel Erfolg!</strong></p>
+    Teilnehmen kann jeder der mindestens 18 Jahre alt ist. Mitmachen kann man
+    noch bis zum 31.10.2021.
+    <br /> <br />
+    <strong>Die Preisfrage lautet:</strong> <br />
+    Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
+    <br />
+    <a href="/gewinnspiel">Schick uns deine Lösung!</a> <br />
+    <strong>Viel Erfolg!</strong>
+  </div>
 </div>
