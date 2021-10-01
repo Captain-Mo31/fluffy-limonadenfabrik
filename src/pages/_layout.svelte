@@ -5,7 +5,7 @@
 </script>
 
 <Navbar />
-<div class="text-center font-serif items-center w-full prose overflow-hidden>
+<div class="text-center font-serif items-center w-full prose overflow-hidden">
   <main class="w-3/4">
     <slot />
   </main>
