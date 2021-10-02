@@ -27,9 +27,9 @@
         </div>
         <div class="prod-img">
           <img
-            src="/pictures/limo1.jpg"
-            class="w-full object-cover object-center"
-            alt="  Fluffy Getränkedosen "
+            src="/pictures/limo1.png"
+            class="w-full object-cover object-center scale-50"
+            alt="Fluffy Bitter Lemon"
           />
         </div>
         <div class="prod-info grid gap-10">
