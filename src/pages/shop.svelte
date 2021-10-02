@@ -6,10 +6,10 @@
   werden diese Ihnen dann umgehend zukommen lassen.
 </p>
 
-<h3>Zur Zeit gibt es Folgende Produkte:</h3>
+<h3 class="text-center">Zur Zeit gibt es Folgende Produkte:</h3>
 <br />
 <br />
-<div class="grid grid-cols-3 gap-x-72">
+<div class="grid grid-cols-2 gap-x-10">
   <div class="w-80 flex justify-center items-center">
     <div class="w-full p-4">
       <div

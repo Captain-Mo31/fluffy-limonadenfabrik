@@ -5,11 +5,17 @@
   metatags.description = "Description coming soon...";
 </script>
 
+<div class="w-full grid justify-items-center">
+  <img
+    alt="Dartspiel Foto"
+    src="https://images.unsplash.com/photo-1533745848184-3db07256e163?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VsY29tZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    class=""
+  />
+</div>
 <h1 class="text-center">Wilkommen bei Fluffy</h1>
 
 <div>
-  <h2>Aktuelles:</h2>
-  <br />
+  <h2 class="text-center">Aktuelles:</h2>
 </div>
 <div
   class="overflow-hidden shadow-lg rounded-lg h-90 w-2/4 cursor-pointer m-auto"

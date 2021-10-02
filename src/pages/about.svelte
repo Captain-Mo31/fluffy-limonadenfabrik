@@ -1,4 +1,4 @@
-<h1>Über uns:</h1>
+<h1 class=" text-center">Über uns:</h1>
 <br />
 
 <div class="">
