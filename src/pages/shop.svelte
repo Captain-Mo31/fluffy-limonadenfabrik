@@ -137,7 +137,7 @@
       >
         <div class="prod-title">
           <p class="text-2xl uppercase text-gray-900 font-bold">
-            Fluffy Mehrwegkiste
+            Merwehg Kiste
           </p>
           <p class="uppercase text-sm text-gray-400">
             Fluffy gibt es natürlich auch in der kostengünstigen Mehrwegkiste.

@@ -4,9 +4,11 @@
   import Footer from "../components/Footer.svelte";
 </script>
 
-<body class="bg-gray-100 w-full h-full dark:bg-gray-700">
+<body class="bg-gray-50 w-full h-auto dark:bg-gray-700  ">
   <Navbar />
-  <div class=" overflow-hidden font-serif w-full grid justify-items-center">
+  <div
+    class=" overflow-hidden font-serif w-full grid justify-items-center dark:text-white"
+  >
     <main class="w-2/3 prose">
       <slot />
     </main>

@@ -26,8 +26,8 @@
     class="max-h-40 w-full object-cover"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
-    <p class="text-gray-800 dark:text-white text-xl mb-2">Gewinnspiel</p>
-    <p class="text-gray-400 dark:text-gray-300 font-light text-md">
+    <p class="text-black dark:text-white text-xl mb-2">Gewinnspiel</p>
+    <p class="text-black dark:text-white font-light text-md">
       Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
     </p>
     <ol>

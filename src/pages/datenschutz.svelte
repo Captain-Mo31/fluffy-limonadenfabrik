@@ -1,4 +1,4 @@
-<h1>Datenschutzerklärung</h1>
+<h1 class="text-center">Datenschutzerklärung</h1>
 <p>
   Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der
   EU-Datenschutzgrundverordnung (DSGVO), ist:

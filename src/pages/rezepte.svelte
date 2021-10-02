@@ -1,11 +1,13 @@
-<h1>Rezepte:</h1>
-<picture>
-  <source
-    srcSet="https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80"
-    type="image/webp"
-  />
-  <img class="relative w-96" src="/images/object/5.png" alt="shopping item" />
-</picture>
+<h1 class="text-center">Rezepte:</h1>
+<div class="grid justify-items-center">
+  <picture>
+    <source
+      srcSet="https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80"
+      type="image/webp"
+    />
+    <img class="relative w-96" src="/images/object/5.png" alt="shopping item" />
+  </picture>
+</div>
 <p>
   Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder Ernährung:
   Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche Art
