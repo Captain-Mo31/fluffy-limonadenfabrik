@@ -1,6 +1,6 @@
 <h1>Schick uns deine Lösung:</h1>
 
-<div class=" relative w-4/12">
+<div>
   <input
     type="text"
     id="rounded-email"

@@ -1,4 +1,11 @@
 <h1>Rezepte:</h1>
+<picture>
+  <source
+    srcSet="https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80"
+    type="image/webp"
+  />
+  <img class="relative w-96" src="/images/object/5.png" alt="shopping item" />
+</picture>
 <p>
   Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder Ernährung:
   Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche Art
@@ -38,23 +45,25 @@
         fill="#f3c06b"
       />
     </svg>
-    <div class="relative pt-10 px-10 flex items-center justify-center">
-      <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3" />
+    <div class="relative pt-5 px-5 flex items-center justify-center">
+      <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <picture>
-        <source srcSet="/images/object/5.webp" type="image/webp" />
-        <source srcSet="/images/object/5.png" />
+        <source
+          srcSet="https://images.unsplash.com/photo-1497534446932-c925b458314e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=472&q=80"
+          type="image/webp"
+        />
         <img
-          class="relative w-40"
+          class="relative w-56"
           src="/images/object/5.png"
           alt="shopping item"
         />
       </picture>
     </div>
-    <div class="relative text-white px-6 pb-6 mt-6">
+    <div class="relative text-white px-5 pb-5 mt-6">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der Magische Trumpf</span>
         <span
-          class="  bg-white rounded-full text-yellow-500 text-xs font-bold px-3 py-2 leading-none flex items-center m-2"
+          class="  bg-white rounded-full text-yellow-500 text-xs font-bold px-3 py-2 leading-none flex items-center"
         >
           <a href="/magischertrumpf">Rezept </a>
         </span>
@@ -62,7 +71,7 @@
     </div>
   </div>
   <div
-    class="flex-shrink-0 mx-2 mb-6 sm:mb-0 relative overflow-hidden bg-blue-500 rounded-lg max-w-xs shadow-lg"
+    class="flex-shrink-0 mx-2 mb-5 m-5 sm:mb-0 relative overflow-hidden bg-blue-500 rounded-lg max-w-xs shadow-lg"
   >
     <svg
       class="absolute bottom-0 left-0 mb-8"
@@ -87,11 +96,15 @@
         fill="#6da3fb"
       />
     </svg>
-    <div class="relative pt-10 px-10 flex items-center justify-center">
-      <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3" />
-      <img class="relative w-40" src="/images/object/6.png" alt="shopping" />
+    <div class="relative pt-5 px-5 flex items-center justify-center">
+      <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
+      <img
+        class="relative w-56"
+        src="https://images.unsplash.com/photo-1486428263684-28ec9e4f2584?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        alt="shopping"
+      />
     </div>
-    <div class="relative text-white px-6 pb-6 mt-6">
+    <div class="relative text-white px-5 pb-5 mt-6">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der schnelle Läufer </span>
         <span
@@ -103,7 +116,7 @@
     </div>
   </div>
   <div
-    class="flex-shrink-0 mx-2 -mb-6 relative overflow-hidden bg-purple-500 rounded-lg max-w-xs shadow-lg"
+    class="flex-shrink-0 mx-2 mb-6 m-5 relative overflow-hidden bg-purple-500 rounded-lg max-w-xs shadow-lg"
   >
     <svg
       class="absolute bottom-0 left-0 mb-8"
@@ -128,11 +141,15 @@
         fill="#a17cf3"
       />
     </svg>
-    <div class="relative pt-10 px-10 flex items-center justify-center">
-      <div class="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3" />
-      <img class="relative w-40" src="/images/object/7.png" alt="shopping" />
+    <div class="relative pt-5 px-5 flex items-center justify-center">
+      <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
+      <img
+        class="relative w-56"
+        src="https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        alt="shopping"
+      />
     </div>
-    <div class="relative text-white px-6 pb-6 mt-6">
+    <div class="relative text-white px-5 pb-5 mt-6">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der Erfrischer</span>
         <span

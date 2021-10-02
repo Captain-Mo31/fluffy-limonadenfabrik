@@ -5,8 +5,10 @@
 </script>
 
 <Navbar />
-<div class="text-center font-serif items-center w-full prose overflow-hidden">
-  <main class="w-3/4">
+<div
+  class=" overflow-hidden object-center  font-serif w-full grid justify-items-center"
+>
+  <main class=" object-center w-2/3 prose">
     <slot />
   </main>
 </div>
