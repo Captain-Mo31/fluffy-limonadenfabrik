@@ -2,7 +2,7 @@
 <img
   alt="Group photo "
   src="https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=916&q=80"
-  class=" w-full object-cover rounded-lg "
+  class=" w-full object-cover rounded-lg responsive"
 />
 <div class="">
   Fluffy GmbH ist ein junges, innovatives Unternehmen mit zur Zeit 34
