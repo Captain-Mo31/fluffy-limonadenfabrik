@@ -26,7 +26,7 @@
 <picture>
   <img
     src="/pictures/bitter_lemon.png"
-    class="img-fluid img-thumbnail"
+    class="img-fluid img-thumbnail rounded-lg"
     alt="..."
   />
 </picture>

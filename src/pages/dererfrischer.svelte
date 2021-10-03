@@ -1,12 +1,22 @@
-<h3>Der Erfrischer</h3>
-<img
-  class="relative w-56"
-  src="https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-  alt="shopping"
-/>
-<p>
-  Hierfür benötigen Sie eine Zitrone, viel Eis und eine Dose Fluffygetränkedose
-  (Zitrone oder Orange). Zitrone durchschneiden und ausdrücken, Eis bis zum
-  Glasrand und zum Abschluss mit Fluffy aufgießen. Das erfrischt für den ganzen
-  Tag!
-</p>
+<div
+  class="overflow-hidden shadow-lg rounded-lg h-90 w-96 md:w-80 cursor-pointer m-auto"
+>
+  <img
+    alt="Der Erfrischer"
+    src="https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    class="max-h-40 w-full object-cover "
+  />
+  <div class="bg-white dark:bg-gray-800 w-full p-4">
+    <p class="text-indigo-500 text-md font-medium" />
+    <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
+      Der Erfrischer
+    </p>
+    <p class="text-gray-700 dark:text-gray-300 font-light text-md">
+      Hierfür benötigen Sie eine Zitrone, viel Eis und eine Dose
+      Fluffygetränkedose (Zitrone oder Orange). Zitrone durchschneiden und
+      ausdrücken, Eis bis zum Glasrand und zum Abschluss mit Fluffy aufgießen.
+      Das erfrischt für den ganzen Tag!
+    </p>
+    <strong class="text-center">Guten Appetit</strong>
+  </div>
+</div>

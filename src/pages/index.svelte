@@ -23,7 +23,7 @@
   <img
     alt="Dartspiel Foto"
     src="https://images.unsplash.com/photo-1628440501245-393606514a9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
-    class="max-h-40 w-full object-cover"
+    class="max-h-40 w-full object-cover rounded-lg"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
     <p class="text-black dark:text-white text-xl mb-2">Gewinnspiel</p>

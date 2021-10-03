@@ -5,7 +5,11 @@
       srcSet="https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80"
       type="image/webp"
     />
-    <img class="relative w-96" src="/images/object/5.png" alt="shopping item" />
+    <img
+      class="relative w-96 rounded-lg"
+      src="/images/object/5.png"
+      alt="shopping item"
+    />
   </picture>
 </div>
 <p>
@@ -55,7 +59,7 @@
           type="image/webp"
         />
         <img
-          class="relative w-56"
+          class="relative w-56 rounded-lg   "
           src="/images/object/5.png"
           alt="shopping item"
         />
@@ -101,7 +105,7 @@
     <div class="relative pt-5 px-5 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <img
-        class="relative w-56"
+        class="relative w-56 rounded-lg"
         src="https://images.unsplash.com/photo-1486428263684-28ec9e4f2584?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
         alt="shopping"
       />
@@ -146,7 +150,7 @@
     <div class="relative pt-5 px-5 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <img
-        class="relative w-56"
+        class="relative w-56 rounded-lg"
         src="https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
         alt="shopping"
       />

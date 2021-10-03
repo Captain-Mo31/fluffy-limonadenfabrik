@@ -9,7 +9,7 @@
   <div
     class=" overflow-hidden font-serif w-full grid justify-items-center dark:text-white"
   >
-    <main class="w-2/3 prose">
+    <main class="w-2/3 prose md:w-11/12">
       <slot />
     </main>
   </div>
