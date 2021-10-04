@@ -11,8 +11,8 @@
     src="https://images.unsplash.com/photo-1533745848184-3db07256e163?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VsY29tZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     class=""
     aria-label="Dartspiel Foto"
-    width="319.033"
-    height="160"
+    width="500"
+    height="281"
   />
 </div>
 <h1 class="text-center">Wilkommen bei Fluffy</h1>
