@@ -10,6 +10,7 @@
     alt="Dartspiel Foto"
     src="https://images.unsplash.com/photo-1533745848184-3db07256e163?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2VsY29tZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     class=""
+    aria-label="Dartspiel Foto"
   />
 </div>
 <h1 class="text-center">Wilkommen bei Fluffy</h1>
@@ -24,6 +25,7 @@
     alt="Dartspiel Foto"
     src="https://images.unsplash.com/photo-1628440501245-393606514a9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
     class="max-h-40 w-full object-cover rounded-lg"
+    aria-label="Dartspiel Foto"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
     <p class="text-black dark:text-white text-xl mb-2">Gewinnspiel</p>

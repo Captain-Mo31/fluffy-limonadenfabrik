@@ -7,6 +7,7 @@
   width=""
   height=""
   viewBox="0, 0, 450, 546"
+  aria-label="Fluffy-Logo"
 >
   <g id="Layer_1">
     <path

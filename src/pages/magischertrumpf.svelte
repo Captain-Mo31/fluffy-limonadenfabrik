@@ -5,6 +5,7 @@
     alt="Der Erfrischer"
     src="https://images.unsplash.com/photo-1497534446932-c925b458314e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=472&q=80"
     class="max-h-40 w-full object-cover "
+    aria-label="Bild der Erfrischer"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
     <p class="text-indigo-500 text-md font-medium" />

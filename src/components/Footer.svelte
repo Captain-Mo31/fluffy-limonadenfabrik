@@ -34,6 +34,7 @@
       <a
         href="https://de-de.facebook.com/"
         class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        aria-label="Link zu Facebook"
       >
         <svg
           width="20"
@@ -51,6 +52,7 @@
       <a
         href="https://twitter.com/"
         class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        aria-label="Link zu Twitter"
       >
         <svg
           width="20"
@@ -68,6 +70,7 @@
       <a
         href="https://github.com/Captain-Mo31/fluffy-limonadenfabrik"
         class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        aria-label="Link zum Github repository"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -85,6 +88,7 @@
       <a
         href="https://www.linkedin.com/"
         class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        aria-label="Link zu Linkedin"
       >
         <svg
           width="20"
