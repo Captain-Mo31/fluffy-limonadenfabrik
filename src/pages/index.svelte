@@ -25,7 +25,7 @@
 >
   <img
     alt="Dartspiel Foto"
-    src="https://images.unsplash.com/photo-1628440501245-393606514a9e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1031&q=80"
+    src="/pictures/gewinnspiel.jpg"
     class="max-h-40 w-full object-cover rounded-lg"
     aria-label="Dartspiel Foto"
     width="500"
