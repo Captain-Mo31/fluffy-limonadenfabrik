@@ -3,7 +3,7 @@
 </script>
 
 <nav
-  class="bg-yellow-500 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
+  class="bg-yellow-400 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
 >
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex items-center justify-between h-24">
@@ -67,25 +67,25 @@
   <div class="md:hidden">
     <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
       <a
-        class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+        class="text-white hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
         href="/"
       >
         Home
       </a>
       <a
-        class="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium"
+        class="text-white dark:text-white block px-3 py-2 rounded-md text-base font-medium"
         href="/about"
       >
         Über uns
       </a>
       <a
-        class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+        class="text-white hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
         href="/shop"
       >
         Shop
       </a>
       <a
-        class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+        class="text-white hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
         href="/rezepte"
       >
         Rezepte
