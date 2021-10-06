@@ -1,5 +1,5 @@
 <footer
-  class="bg-yellow-400 dark:bg-yellow-700 w-full py-4 mt-10 font-serif text-white"
+  class="bg-yellow-500 dark:bg-yellow-700 w-full py-4 mt-10 font-serif text-white"
 >
   <div class="max-w-screen-xl mx-auto px-4">
     <ul

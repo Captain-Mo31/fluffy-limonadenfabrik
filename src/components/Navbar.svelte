@@ -3,7 +3,7 @@
 </script>
 
 <nav
-  class="bg-yellow-400 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
+  class="bg-yellow-500 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
 >
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex items-center justify-between h-24">
