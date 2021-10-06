@@ -27,7 +27,7 @@
         </div>
         <div class="prod-img">
           <img
-            src="/public/pictures/limo1.png"
+            src="../public/pictures/limo1.png"
             class="w-full object-cover object-center scale-50"
             alt="Fluffy Bitter Lemon"
           />
@@ -66,7 +66,7 @@
         </div>
         <div class="prod-img">
           <img
-            src="/public/pictures/bitter_lemon.png"
+            src="../public/pictures/bitter_lemon.png"
             class="w-full object-cover object-center scale-50"
             alt="Fluffy Bitter Lemon"
           />
@@ -106,7 +106,7 @@
         </div>
         <div class="prod-img">
           <img
-            src="/public/pictures/limo_familienpack.png"
+            src="../public/pictures/limo_familienpack.png"
             class="w-full object-cover object-center"
             alt="Fluffy Familienglück"
           />
@@ -146,7 +146,7 @@
         </div>
         <div class="prod-img">
           <img
-            src="/public/pictures/limo_kiste.png"
+            src="../public/pictures/limo_kiste.png"
             class="w-full object-cover object-center"
             alt=" Fluffy Mehrwegkiste"
           />
