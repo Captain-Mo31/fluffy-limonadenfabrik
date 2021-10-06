@@ -8,7 +8,7 @@
 <div class="w-full grid justify-items-center ">
   <img
     alt="Dartspiel Foto"
-    src="/pictures/welcome.jpg"
+    src="public/pictures/welcome.jpg"
     class="rounded-lg"
     aria-label="Dartspiel Foto"
     width="500"
@@ -25,7 +25,7 @@
 >
   <img
     alt="Dartspiel Foto"
-    src="/pictures/gewinnspiel.jpg"
+    src="public/pictures/gewinnspiel.jpg"
     class="max-h-40 w-full object-cover "
     aria-label="Dartspiel Foto"
     width="500"
