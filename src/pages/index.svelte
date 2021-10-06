@@ -5,11 +5,11 @@
   metatags.description = "Description coming soon...";
 </script>
 
-<div class="w-full grid justify-items-center">
+<div class="w-full grid justify-items-center ">
   <img
     alt="Dartspiel Foto"
     src="/pictures/welcome.jpg"
-    class=""
+    class="rounded-lg"
     aria-label="Dartspiel Foto"
     width="500"
     height="281"
@@ -26,7 +26,7 @@
   <img
     alt="Dartspiel Foto"
     src="/pictures/gewinnspiel.jpg"
-    class="max-h-40 w-full object-cover rounded-lg"
+    class="max-h-40 w-full object-cover "
     aria-label="Dartspiel Foto"
     width="500"
     height="281"
@@ -48,7 +48,14 @@
     <strong>Die Preisfrage lautet:</strong> <br />
     Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
     <br />
-    <a href="/gewinnspiel">Schick uns deine Lösung!</a> <br />
-    <strong>Viel Erfolg!</strong>
+    <br />
+    <a
+      class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 hover:text-white border-2 border-gray-900 focus:outline-none"
+      href="/gewinnspiel"
+    >
+      Schick uns deine Lösung!
+    </a>
+    <br />
+    <p class="text-center"><strong>Viel Erfolg!</strong></p>
   </div>
 </div>
