@@ -7,12 +7,12 @@
 
 <div class="w-full grid justify-items-center ">
   <img
-    alt="Dartspiel Foto"
+    alt="Wilkommen Bild"
     src="/pictures/welcome.webp"
     class="rounded-lg"
     aria-label="Wilkommen Bild"
-    width="500"
-    height="281"
+    width="1632"
+    height="918"
   />
 </div>
 <h1 class="text-center">Wilkommen bei Fluffy</h1>
@@ -28,8 +28,8 @@
     src="/pictures/wettbewerb.webp"
     class="max-h-40 w-full object-cover "
     aria-label="Dartspiel Foto"
-    width="500"
-    height="281"
+    width="1471"
+    height="981"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
     <p class="text-black dark:text-white text-xl mb-2">Gewinnspiel</p>
