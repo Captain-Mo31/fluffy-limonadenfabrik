@@ -9,7 +9,7 @@
 <h3 class="text-center">Zur Zeit gibt es Folgende Produkte:</h3>
 <br />
 <br />
-<div class="grid grid-cols-2 gap-x-10">
+<div class="grid grid-cols-1 gap-x-10 md:grid-cols-2">
   <div class="w-80 flex justify-center items-center">
     <div class="w-full p-4">
       <div
@@ -28,7 +28,7 @@
         <div class="prod-img">
           <img
             src="/pictures/limo1.webp"
-            class="w-full object-cover object-center scale-50"
+            class="w-full object-cover object-center"
             alt="Fluffy Getränkedose"
           />
         </div>
@@ -67,7 +67,7 @@
         <div class="prod-img">
           <img
             src="/pictures/bitter_lemon.webp"
-            class="w-full object-cover object-center scale-50"
+            class="w-full object-cover object-center  scale-50 "
             alt="Fluffy Bitter Lemon"
           />
         </div>
