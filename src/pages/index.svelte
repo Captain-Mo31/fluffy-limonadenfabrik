@@ -20,9 +20,7 @@
 <div>
   <h2 class="text-center">Aktuelles:</h2>
 </div>
-<div
-  class="overflow-hidden shadow-lg rounded-lg h-90 w-2/4 cursor-pointer m-auto"
->
+<div class="overflow-hidden shadow-lg rounded-lg h-90  cursor-pointer m-auto">
   <img
     alt="Dartspiel Foto"
     src="/pictures/wettbewerb.webp"
