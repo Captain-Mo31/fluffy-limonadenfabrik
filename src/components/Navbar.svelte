@@ -2,7 +2,8 @@
   import Logo from "./Logo.svelte";
 
   const items = [
-    { url: "/about", name: "Das Unternehmen" },
+    { url: "/", name: "Home" },
+    { url: "/about", name: "Über uns" },
     { url: "/shop", name: "Shop" },
     { url: "/rezepte", name: "Rezepte" },
     { url: "/partner", name: "Partner" },
@@ -44,6 +45,12 @@
               href="/rezepte"
             >
               Rezepte
+            </a>
+            <a
+              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              href="/partner"
+            >
+              Partner
             </a>
           </div>
         </div>
