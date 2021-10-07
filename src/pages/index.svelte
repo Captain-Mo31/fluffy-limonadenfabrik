@@ -20,7 +20,9 @@
 <div>
   <h2 class="text-center">Aktuelles:</h2>
 </div>
-<div class="overflow-hidden shadow-lg rounded-lg h-90  cursor-pointer m-auto">
+<div
+  class="overflow-hidden shadow-lg rounded-lg h-90 w-2/3 cursor-pointer m-auto"
+>
   <img
     alt="Dartspiel Foto"
     src="/pictures/wettbewerb.webp"
@@ -30,7 +32,9 @@
     height="981"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
-    <p class="text-black dark:text-white text-xl mb-2">Gewinnspiel</p>
+    <p class="text-black dark:text-white text-xl mb-2 text-center">
+      Gewinnspiel
+    </p>
     <p class="text-black dark:text-white font-light text-md">
       Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
     </p>
@@ -47,13 +51,14 @@
     Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
     <br />
     <br />
-    <a
-      class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 hover:text-white border-2 border-gray-900 focus:outline-none"
-      href="/gewinnspiel"
-    >
-      Schick uns deine Lösung!
-    </a>
-    <br />
+    <div class="grid justify-items-center">
+      <a
+        class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 hover:text-white border-2 border-gray-900 focus:outline-none"
+        href="/gewinnspiel"
+      >
+        Schick uns deine Lösung!
+      </a>
+    </div>
     <p class="text-center"><strong>Viel Erfolg!</strong></p>
   </div>
 </div>
