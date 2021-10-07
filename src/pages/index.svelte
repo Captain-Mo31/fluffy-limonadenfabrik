@@ -21,7 +21,7 @@
   <h2 class="text-center">Aktuelles:</h2>
 </div>
 <div
-  class="overflow-hidden shadow-lg rounded-lg h-90 w-2/3 cursor-pointer m-auto"
+  class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:w-2/3 cursor-pointer m-auto"
 >
   <img
     alt="Dartspiel Foto"
