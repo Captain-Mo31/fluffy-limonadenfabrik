@@ -9,11 +9,11 @@
 <h3 class="text-center">Zur Zeit gibt es Folgende Produkte:</h3>
 <br />
 <br />
-<div class="grid grid-cols-1 gap-x-10 md:grid-cols-2">
+<div class="grid grid-cols-1 gap-x-5 md:grid-cols-2">
   <div class="w-80 flex justify-center items-center">
-    <div class="w-full p-4">
+    <div class="w-full p-2">
       <div
-        class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
+        class="card flex flex-col justify-center p-2 bg-white rounded-lg shadow-1xl"
       >
         <div class="prod-title">
           <p class="text-2xl uppercase text-gray-900 font-bold">
@@ -32,6 +32,7 @@
             alt="Fluffy Getränkedose"
           />
         </div>
+
         <div class="prod-info grid gap-10">
           <div>
             <ul class="flex flex-row justify-center items-center" />
@@ -64,13 +65,13 @@
             Die Königin unserer Produktpalette. Ungemein lecker und erfrischend!
           </p>
         </div>
-        <div class="prod-img">
-          <img
-            src="/pictures/bitter_lemon.webp"
-            class="w-full object-cover object-center  scale-50 "
-            alt="Fluffy Bitter Lemon"
-          />
-        </div>
+
+        <img
+          src="/pictures/bitter_lemon.webp"
+          class="w-full object-cover object-center scale-50 "
+          alt="Fluffy Bitter Lemon"
+        />
+
         <div class="prod-info grid gap-10">
           <div>
             <ul class="flex flex-row justify-center items-center" />
