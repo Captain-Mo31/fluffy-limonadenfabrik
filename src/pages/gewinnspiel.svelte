@@ -10,6 +10,9 @@
 
   <button
     class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-500 hover:text-white border-2 border-yellow-400 focus:outline-none"
+    on:click={() => {
+      showMenu = true;
+    }}
   >
     Abschicken
   </button>
