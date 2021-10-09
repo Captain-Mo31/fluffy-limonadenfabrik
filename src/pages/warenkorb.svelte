@@ -1,8 +1,5 @@
 <script>
-  let Karte1 = false;
-  let Karte2 = false;
-  let Karte3 = false;
-  let Karte4 = false;
+  import Button, { Karte1 } from "./shop.svelte";
 </script>
 
 <p class="dark:text-white text-center text-2xl ">Warenkorb:</p>

@@ -1,8 +1,9 @@
+<script context="module">
+  export function Karte1() {}
+</script>
+
 <script>
-  let Karte1 = false;
-  let Karte2 = false;
-  let Karte3 = false;
-  let Karte4 = false;
+  Karte1 = false;
 </script>
 
 <p class="text-center text-black dark:text-white text-2xl ">Produkte:</p>
@@ -51,7 +52,7 @@
             <button
               class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
               on:click={() => {
-                Karte1 = true;
+                Karte1 = false;
               }}
             >
               Hinzufügen
