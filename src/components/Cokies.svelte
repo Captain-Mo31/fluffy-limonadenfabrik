@@ -4,7 +4,7 @@
 
 <div class:hidden={!cokies}>
   <div
-    class="w-72 bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 fixed bottom-0 right-0 "
+    class="w-72 bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 fixed bottom-5 right-5"
   >
     <div class="w-16 mx-auto relative -mt-10 mb-3">
       <img
