@@ -1,4 +1,5 @@
-<h1 class="text-center">Rezepte:</h1>
+<p class="text-center text-black dark:text-white text-2xl ">Rezepte:</p>
+
 <div class="grid justify-items-center">
   <picture>
     <source
@@ -12,7 +13,7 @@
     />
   </picture>
 </div>
-<p>
+<p class="text-center text-black dark:text-white">
   Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder Ernährung:
   Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche Art
   hergestellt wird. Fluffy-Limonade ist von Haus aus calciumreich aber

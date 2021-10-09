@@ -38,27 +38,36 @@
     <p class="text-black dark:text-white font-light text-md">
       Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
     </p>
-    <ol>
+    <ol class="dark:text-white text-black">
       <li>Eine Reise in den Harz</li>
       <li>Ein Jahr ein Monatsabo an Limonade</li>
       <li>Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH</li>
     </ol>
-
-    Teilnehmen kann jeder der mindestens 18 Jahre alt ist. Mitmachen kann man
-    noch bis zum 31.10.2021.
-    <br /> <br />
-    <strong>Die Preisfrage lautet:</strong> <br />
-    Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
-    <br />
+    <p class="dark:text-white text-black">
+      Teilnehmen kann jeder der mindestens 18 Jahre alt ist. Mitmachen kann man
+      noch bis zum 31.10.2021.
+    </p>
+    <p class="dark:text-white text-black">
+      <strong
+        ><p class="dark:text-white text-black">
+          Die Preisfrage lautet:
+        </p></strong
+      >
+      Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
+    </p>
     <br />
     <div class="grid justify-items-center">
       <a
-        class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 hover:text-white border-2 border-gray-900 focus:outline-none"
+        class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 dark:hover:bg-yellow-700 hover:text-white border-2 border-gray-900 dark:border-white focus:outline-none"
         href="/gewinnspiel"
       >
-        Schick uns deine Lösung!
+        <p class="dark:text-white text-black">Schick uns deine Lösung!</p>
       </a>
     </div>
-    <p class="text-center"><strong>Viel Erfolg!</strong></p>
+    <sub class="text-center">
+      <strong>
+        <p class="dark:text-white text-black text-2xl">Viel Erfolg!</p></strong
+      >
+    </sub>
   </div>
 </div>

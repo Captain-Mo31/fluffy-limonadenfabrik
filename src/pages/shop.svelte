@@ -1,5 +1,12 @@
-<h1 class="text-center">Produkte:</h1>
-<p>
+<script>
+  let Karte1 = false;
+  let Karte2 = false;
+  let Karte3 = false;
+  let Karte4 = false;
+</script>
+
+<p class="text-center text-black dark:text-white text-2xl ">Produkte:</p>
+<p class="text-center text-black dark:text-white">
   Fluffylimonade kann zur Zeit nur Online bestellt werden. Wir sind aber
   bestrebt, Fluffy in Zukunft in ihrem Supermarkt "um die Ecke" anbieten zu
   können. Ansonsten rufen Sie uns an und bestellen entsprechende Produkte. Wir
@@ -43,6 +50,9 @@
             <p class="font-bold text-xl">0,69&euro</p>
             <button
               class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
+              on:click={() => {
+                Karte1 = true;
+              }}
             >
               Hinzufügen
             </button>

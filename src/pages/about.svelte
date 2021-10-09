@@ -4,7 +4,7 @@
   src="/pictures/mitarbeiter.webp"
   class="w-full  object-cover rounded-lg responsive"
 />
-<div class="">
+<div class="text-black dark:text-white">
   Fluffy GmbH ist ein junges, innovatives Unternehmen mit zur Zeit 34
   Mitarbeitern, das alkoholfreie Erfrischungsgetränke ausschließlich biologisch
   herstellt. Das Unternehmen hat seinen Sitz in Hamburg Altona. Es ist aus der

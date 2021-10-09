@@ -2,9 +2,10 @@
 <script>
   import Navbar from "../components/Navbar.svelte";
   import Footer from "../components/Footer.svelte";
+  import Cokies from "../components/Cokies.svelte";
 </script>
 
-<body class="bg-gray-50 w-full h-auto dark:bg-gray-700  ">
+<body class="bg-gray-50 w-full h-auto dark:bg-gray-900  ">
   <Navbar />
   <div
     class=" overflow-hidden font-serif w-full grid justify-items-center dark:text-white"
@@ -13,5 +14,6 @@
       <slot />
     </main>
   </div>
+  <Cokies />
   <Footer />
 </body>

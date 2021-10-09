@@ -12,7 +12,7 @@
     <p class="text-gray-800 dark:text-white text-xl font-medium mb-2">
       Der magische Trunk
     </p>
-    <p class="text-gray-700 dark:text-gray-300 font-light text-md">
+    <p class="text-gray-700 dark:text-white font-light text-md">
       Hierfür werden eine frische Apfelsine, ein Apfel, ein wenig Zimt, etwas
       Ingwer und Fluffy Orangenlimonade gebraucht. Apfelsine und Apfel schälen
       und klein schneiden und mit der Fluffy Orangenlimonade verrühren. Zum
