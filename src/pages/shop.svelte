@@ -6,7 +6,7 @@
       class="absolute rounded-lg inset-0 w-full h-full object-cover scale-90"
     />
   </div>
-  <form class="flex-auto p-6">
+  <form class="flex-1 p-6">
     <div class="flex flex-wrap">
       <h1 class="flex-auto text-xl font-semibold dark:text-gray-50">
         Fluffy Getränkedose Zitrone
