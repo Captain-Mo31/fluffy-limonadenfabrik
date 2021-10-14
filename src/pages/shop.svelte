@@ -1,184 +1,126 @@
-<script context="module">
-  export function Karte1() {
-    false;
-  }
-</script>
-
-<p class="text-center text-black dark:text-white text-2xl ">Produkte:</p>
-<p class="text-center text-black dark:text-white">
-  Fluffylimonade kann zur Zeit nur Online bestellt werden. Wir sind aber
-  bestrebt, Fluffy in Zukunft in ihrem Supermarkt "um die Ecke" anbieten zu
-  können. <a href="/partner" class="text-gray-500 dark:text-gray-100"
-    >(Wir werden euch auf unserer Partner Seite darüber informieren)</a
-  >Ansonsten rufen Sie uns an und bestellen entsprechende Produkte. Wir werden
-  diese Ihnen dann umgehend zukommen lassen.
-</p>
-
-<h3 class="text-center">Zur Zeit gibt es Folgende Produkte:</h3>
-<br />
-<br />
-<div class="grid grid-cols-1 gap-x-5 md:grid-cols-2">
-  <div class="w-80 flex justify-center items-center">
-    <div class="w-full p-2">
+<div class="flex bg-white dark:bg-gray-800 rounded-lg shadow">
+  <div class="flex-none w-24 md:w-48  relative">
+    <img
+      src="/pictures/limo1.webp"
+      alt="shopping image"
+      class="absolute rounded-lg inset-0 w-full h-full object-cover"
+    />
+  </div>
+  <form class="flex-auto p-6">
+    <div class="flex flex-wrap">
+      <h1 class="flex-auto text-xl font-semibold dark:text-gray-50">
+        Fluffy Getränkedose
+      </h1>
+      <div class="text-xl font-semibold text-gray-500 dark:text-gray-300">
+        $0,69
+      </div>
       <div
-        class="card flex flex-col justify-center p-2 bg-white rounded-lg shadow-1xl"
+        class="w-full flex-none text-sm font-medium text-gray-500 dark:text-gray-300 mt-2"
       >
-        <div class="prod-title">
-          <p class="text-2xl uppercase text-gray-900 font-bold">
-            Fluffy Getränkedosen
-          </p>
-          <p class="uppercase text-sm text-gray-400">
-            Beliebt vor allem bei der Jugend enthält jede Dose 100%
-            Fluffy-Flavoury. Garantiert! Erhältlich in den Geschmacksrichtungen
-            "Zitrone" und "Orange"
-          </p>
-        </div>
-        <div class="prod-img">
-          <img
-            src="/pictures/limo1.webp"
-            class="w-full object-cover object-center"
-            alt="Fluffy Getränkedose"
+        Auf Lager
+      </div>
+    </div>
+    <div class="flex items-baseline mt-4 mb-6 text-gray-700 dark:text-gray-300">
+      <div class="space-x-2 flex">
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center bg-gray-100 dark:bg-gray-600 rounded-lg"
+            name="size"
+            value="xs"
           />
-        </div>
-
-        <div class="prod-info grid gap-10">
-          <div>
-            <ul class="flex flex-row justify-center items-center" />
-          </div>
-          <div
-            class="flex flex-col md:flex-row justify-between items-center text-gray-900"
-          >
-            <p class="font-bold text-xl">0,69&euro</p>
-            <button
-              class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
-              on:click={() => {
-                Karte1 = true;
-              }}
-            >
-              Hinzufügen
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="w-80 flex justify-center items-center">
-    <div class="w-full p-4">
-      <div
-        class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
-      >
-        <div class="prod-title">
-          <p class="text-2xl uppercase text-gray-900 font-bold">
-            Fluffy Bitter Lemon
-          </p>
-          <p class="uppercase text-sm text-gray-400">
-            Die Königin unserer Produktpalette. Ungemein lecker und erfrischend!
-          </p>
-        </div>
-
-        <img
-          src="/pictures/bitter_lemon.webp"
-          class="w-full object-cover object-center scale-50 "
-          alt="Fluffy Bitter Lemon"
-        />
-
-        <div class="prod-info grid gap-10">
-          <div>
-            <ul class="flex flex-row justify-center items-center" />
-          </div>
-          <div
-            class="flex flex-col md:flex-row justify-between items-center text-gray-900"
-          >
-            <p class="font-bold text-xl">0,69&euro</p>
-            <button
-              class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
-            >
-              Hinzufügen
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="w-80 flex justify-center items-center">
-    <div class="w-full p-4">
-      <div
-        class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
-      >
-        <div class="prod-title">
-          <p class="text-2xl uppercase text-gray-900 font-bold">
-            Fluffy Familienglück
-          </p>
-          <p class="uppercase text-sm text-gray-400">
-            Die leckere Limonade für die ganze Familie. Erhältlich in den
-            Geschmacksrichtungen "Orange" und "Himbeer".
-          </p>
-        </div>
-        <div class="prod-img">
-          <img
-            src="/pictures/limo_familienpack.webp"
-            class="w-full object-cover object-center"
-            alt="Fluffy Familienglück"
+          1
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="s"
           />
-        </div>
-        <div class="prod-info grid gap-10">
-          <div>
-            <ul class="flex flex-row justify-center items-center" />
-          </div>
-          <div
-            class="flex flex-col md:flex-row justify-between items-center text-gray-900"
-          >
-            <p class="font-bold text-xl">0,69&euro</p>
-            <button
-              class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
-            >
-              Hinzufügen
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="w-80 flex justify-center items-center">
-    <div class="w-full p-4">
-      <div
-        class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
-      >
-        <div class="prod-title">
-          <p class="text-2xl uppercase text-gray-900 font-bold">
-            Merwehg Kiste
-          </p>
-          <p class="uppercase text-sm text-gray-400">
-            Fluffy gibt es natürlich auch in der kostengünstigen Mehrwegkiste.
-            Diese schont die Umwelt und den Geldbeutel.
-          </p>
-        </div>
-        <div class="prod-img">
-          <img
-            src="/pictures/limo_kiste.webp"
-            class="w-full object-cover object-center"
-            alt=" Fluffy Mehrwegkiste"
+          2
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="m"
           />
-        </div>
-        <div class="prod-info grid gap-10">
-          <div>
-            <ul class="flex flex-row justify-center items-center" />
-          </div>
-          <div
-            class="flex flex-col md:flex-row justify-between items-center text-gray-900"
-          >
-            <p class="font-bold text-xl">0,69&euro</p>
-            <button
-              class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none"
-            >
-              Hinzufügen
-            </button>
-          </div>
-        </div>
+          3
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="l"
+          />
+          4
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          5
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          6
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          7
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          8
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          9
+        </label>
+        <label class="text-center">
+          <input
+            type="radio"
+            class="w-6 h-6 flex items-center justify-center"
+            name="size"
+            value="xl"
+          />
+          10
+        </label>
       </div>
     </div>
-  </div>
+    <div class="flex mb-4 text-sm font-medium">
+      <button
+        type="button"
+        class="py-2 px-4  bg-yellow-400 hover:bg-yellow-700 focus:ring-yellow-400 focus:ring-offset-yellow-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
+      >
+        Jetz Kaufen
+      </button>
+    </div>
+  </form>
 </div>

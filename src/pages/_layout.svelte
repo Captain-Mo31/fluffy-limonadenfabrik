@@ -14,6 +14,6 @@
       <slot />
     </main>
   </div>
-  <Cokies />
+  <!--<Cokies />-->
   <Footer />
 </body>
