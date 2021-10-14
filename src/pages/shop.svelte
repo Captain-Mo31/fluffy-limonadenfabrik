@@ -1,4 +1,6 @@
-<div class="flex bg-white dark:bg-gray-800 rounded-lg shadow my-5">
+<div
+  class="flex bg-white dark:bg-gray-800 rounded-lg shadow my-5 md:visible invisible"
+>
   <div class="flex-none w-24 md:w-48  relative">
     <img
       src="/pictures/limo1.webp"
@@ -56,7 +58,7 @@
 
 <!--Mobile Ansicht-->
 
-<div class="w-80 flex justify-center items-center">
+<div class="w-80 flex justify-center items-center md:hidden">
   <div class="w-full p-4">
     <div
       class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
