@@ -7,7 +7,7 @@
     >
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-gray-300 dark:hover:text-white transition-colors duration-200"
+          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
           href="/impressum"
         >
           Impressum
@@ -15,7 +15,7 @@
       </li>
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-gray-300 dark:hover:text-white transition-colors duration-200"
+          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
           href="/datenschutz"
         >
           Datenschutz
@@ -23,7 +23,7 @@
       </li>
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-gray-300 dark:hover:text-white transition-colors duration-200"
+          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
           href="/kontakt"
         >
           Kontakt

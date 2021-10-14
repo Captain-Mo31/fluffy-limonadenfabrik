@@ -1,5 +1,5 @@
-<div>
-  <h1>Kontakt:</h1>
+<div class="dark:text-white">
+  <p class="text-center  text-3xl">Kontakt:</p>
   <br />
   Fluffy GMBH<br />
   Zur großen Erfrischung 1<br />

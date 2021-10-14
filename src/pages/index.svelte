@@ -15,13 +15,12 @@
     height="918"
   />
 </div>
-<h1 class="text-center">Wilkommen bei Fluffy</h1>
+<p class="text-center dark:text-white text-5xl">Wilkommen bei Fluffy</p>
 
-<div>
-  <h2 class="text-center">Aktuelles:</h2>
-</div>
+<p class="text-center dark:text-white text-4xl">Aktuelles:</p>
+
 <div
-  class="overflow-hidden shadow-lg rounded-lg h-90 w-full md:w-2/3 cursor-pointer m-auto"
+  class="overflow-hidden shadow-lg rounded-lg h-90 w-10/12 md:w-2/3 cursor-pointer m-auto"
 >
   <img
     alt="Dartspiel Foto"

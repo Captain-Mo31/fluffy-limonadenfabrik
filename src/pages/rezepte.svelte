@@ -1,4 +1,4 @@
-<p class="text-center text-black dark:text-white text-2xl ">Rezepte:</p>
+<p class="text-center text-black dark:text-white text-2xl">Rezepte:</p>
 
 <div class="grid justify-items-center">
   <picture>

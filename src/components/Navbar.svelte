@@ -20,6 +20,11 @@
         <a href="/" class="h-16 w-16 items-start m-2" alt="Icon Lemonade">
           <Logo />
         </a>
+        <p
+          class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-3xl font-medium"
+        >
+          Fluffy
+        </p>
         <div class="hidden md:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
@@ -55,7 +60,7 @@
             <!--Warenkorb-->
             <a
               href="/warenkorb"
-              class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+              class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200 scale-150"
               aria-label="Warenkorb"
             >
               <svg

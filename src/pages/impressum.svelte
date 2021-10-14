@@ -1,29 +1,39 @@
-<h1>Impressum</h1>
-<p>Angaben gemäß § 5 TMG</p>
-Fluffy GMBH
-<p>Zur großen Erfrischung 1 20359 Hamburg</p>
-<p>
-  <strong>Vertreten durch: </strong>
+<p class="text-center dark:text-white text-3xl">Impressum</p>
+<p class="text-black dark:text-white">Angaben gemäß § 5 TMG:</p>
+
+<p class="text-black dark:text-white">
+  Fluffy GMBH
+  <br />
+  Zur großen Erfrischung 1 20359 Hamburg
+</p>
+<p class="text-black dark:text-white">
+  <strong><p class="text-black dark:text-white">Vertreten durch:</p> </strong>
   Arnold Weißenegger
 </p>
-<p>
-  <strong>Kontakt:</strong>
+<p class="text-black dark:text-white">
+  <strong><p class="text-black dark:text-white">Kontakt:</p></strong>
   Telefon: 040 / 999 888<br />
   E-Mail: <a href="mailto:kontakt@fluffy.de">kontakt@fluffy.de</a><br />
 </p>
-<p>
-  <strong>Umsatzsteuer-ID: </strong> <br />
-  Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 963214752<br
-  /><br />
-  <strong>Wirtschafts-ID: </strong>
-  8995135412<br /> <br />
-  <strong>Überwachungsbehörde:</strong> <br />
-  Bezirksamt Altona - Fachamt Verbraucherschutz, Gewerbe und Umwelt - Zentrale Dienste<br
-  />
+<p class="text-black dark:text-white">
+  <strong><p class="text-black dark:text-white">Umsatzsteuer-ID:</p></strong>
+
+  Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 963214752
+  <strong><p class="text-black dark:text-white">Wirtschafts-ID:</p></strong>
+  8995135412
+  <strong>
+    <p class="text-black dark:text-white">Überwachungsbehörde:</p></strong
+  >
+  Bezirksamt Altona - Fachamt Verbraucherschutz, Gewerbe und Umwelt - Zentrale Dienste
 </p>
-<p>
-  <strong>Haftungsausschluss: </strong><br /><br />
-  <strong>Haftung für Inhalte</strong><br /><br />
+<p class="text-black dark:text-white">
+  <strong
+    ><p class="text-black dark:text-white text-xl">
+      Haftungsausschluss:
+    </p></strong
+  >
+  <strong><p class="text-black dark:text-white">Haftung für Inhalte:</p></strong
+  >
   Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit,
   Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
   Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen
@@ -34,9 +44,8 @@ Fluffy GMBH
   der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
   Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer
   konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen
-  werden wir diese Inhalte umgehend entfernen.<br /><br /><strong
-    >Haftung für Links</strong
-  ><br /><br />
+  werden wir diese Inhalte umgehend entfernen.
+  <strong><p class="text-black dark:text-white">Haftung für Links</p></strong>
   Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir
   keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine
   Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige
@@ -45,7 +54,8 @@ Fluffy GMBH
   Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
   Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
   nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links
-  umgehend entfernen.<br /><br /><strong>Urheberrecht</strong><br /><br />
+  umgehend entfernen.
+  <strong><p class="text-black dark:text-white">Urheberrecht</p></strong>
   Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen
   dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und
   jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen
