@@ -1,4 +1,4 @@
-<div class="flex bg-white dark:bg-gray-800 rounded-lg shadow my-5 ">
+<div class="flex bg-white dark:bg-gray-800 rounded-lg shadow my-5 w-auto">
   <div class="flex-none w-24 md:w-48  relative">
     <img
       src="/pictures/limo1.webp"
@@ -6,7 +6,7 @@
       class="absolute rounded-lg inset-0 w-full h-full object-cover scale-90"
     />
   </div>
-  <form class="flex-1 p-6">
+  <form class="flex-auto p-6">
     <div class="flex flex-wrap">
       <h1 class="flex-auto text-xl font-semibold dark:text-gray-50">
         Fluffy Getränkedose Zitrone
