@@ -85,7 +85,7 @@
           <h1 class="flex-auto text-xl font-semibold dark:text-gray-50">
             Fluffy Bitterlemon
           </h1>
-          <div class="text-xl font-semibold text-gray-500 dark:text-gray-300">
+          <div class="text-xl font-semibold text-gray-500 dark:text-gray-300 ">
             &euro 2,00
           </div>
           <div
@@ -136,7 +136,7 @@
           <img
             src="/pictures/limo_familienpack.webp"
             alt="shopping image"
-            class="absolute rounded-lg inset-0 w-full h-full object-cover scale-90"
+            class="absolute rounded-lg inset-0 w-full h-full object-cover"
           />
         </div>
         <form class="flex-auto p-6">
@@ -271,7 +271,7 @@
   <!--Mobile Ansicht-->
 
   <div class=" block md:hidden">
-    <div class="w-80 flex justify-center items-center ">
+    <div class="w-80 flex justify-center items-center">
       <div class="w-full p-4">
         <div
           class="card flex flex-col justify-center p-10 bg-white rounded-lg shadow-2xl"
@@ -282,10 +282,10 @@
             </p>
             <p class="uppercase text-sm text-gray-400" />
           </div>
-          <div class="prod-img">
+          <div class="prod-img scale-150">
             <img
               src="/pictures/limo1.webp"
-              class="w-full object-cover object-center"
+              class="w-full object-cover object-center scale-150"
             />
           </div>
           <div class="prod-info grid gap-10">
@@ -392,10 +392,10 @@
             </p>
             <p class="uppercase text-sm text-gray-400" />
           </div>
-          <div class="prod-img">
+          <div class="prod-img scale-150">
             <img
               src="/pictures/limo_familienpack.webp"
-              class="w-full object-cover object-center"
+              class="w-full object-cover object-center scale-150"
             />
           </div>
           <div class="prod-info grid gap-10">
@@ -451,10 +451,10 @@
             </p>
             <p class="uppercase text-sm text-gray-400" />
           </div>
-          <div class="prod-img">
+          <div class="prod-img scale-150">
             <img
               src="/pictures/limo_kiste.webp"
-              class="w-full object-cover object-center"
+              class="w-full object-cover object-center scale-150"
             />
           </div>
           <div class="prod-info grid gap-10">
