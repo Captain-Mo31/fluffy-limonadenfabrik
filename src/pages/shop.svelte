@@ -1,3 +1,9 @@
+<script>
+  export var anzahldose = 0;
+  export var sortedose = 0;
+  export var dose = 0;
+</script>
+
 <!--Shop Elemente -->
 <div class="grid justify-items-center">
   <!--Desktop Ansicht-->
@@ -35,16 +41,16 @@
               name="Anzahl"
             >
               <option value="Anzahl auswählen">Anzahl auswählen </option>
-              <option value="1">1</option>
-              <option value="2">2</option>
-              <option value="3">3</option>
-              <option value="4"> 4 </option>
-              <option value="5"> 5 </option>
-              <option value="6"> 6 </option>
-              <option value="7">7</option>
-              <option value="8"> 8 </option>
-              <option value="9"> 9</option>
-              <option value="10"> 10</option>
+              <option value="1" on:click={() => (anzahldose = 1)}>1</option>
+              <option value="2" on:click={() => (anzahldose = 2)}>2</option>
+              <option value="3" on:click={() => (anzahldose = 3)}>3</option>
+              <option value="4" on:click={() => (anzahldose = 4)}> 4 </option>
+              <option value="5" on:click={() => (anzahldose = 5)}> 5 </option>
+              <option value="6" on:click={() => (anzahldose = 6)}> 6 </option>
+              <option value="7" on:click={() => (anzahldose = 7)}>7</option>
+              <option value="8" on:click={() => (anzahldose = 8)}> 8 </option>
+              <option value="9" on:click={() => (anzahldose = 9)}> 9</option>
+              <option value="10" on:click={() => (anzahldose = 10)}> 10</option>
             </select>
             <select
               class="block w-52 text-gray-700 py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500"

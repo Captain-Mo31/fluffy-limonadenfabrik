@@ -55,10 +55,7 @@
     <div class="relative pt-5 px-5 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <picture>
-        <source
-          srcSet="https://images.unsplash.com/photo-1497534446932-c925b458314e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=472&q=80"
-          type="image/webp"
-        />
+        <source srcSet="/pictures/dermagischeTrump.webp" type="image/webp" />
         <img
           class="relative w-56 rounded-lg   "
           src="/images/object/5.png"
