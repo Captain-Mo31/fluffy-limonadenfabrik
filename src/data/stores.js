@@ -11,6 +11,7 @@ export const content = writable(stored || 'Hello, World!')
 export const anzahldose = writable(storedanzahldose || '0')
 
 
+
 // Anytime the store changes, update the local storage value.
 content.subscribe((value) => localStorage.content = value)
 // or localStorage.setItem('content', value)

@@ -2,14 +2,11 @@
 
 <div class="grid justify-items-center">
   <picture>
-    <source
-      srcSet="https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1557&q=80"
-      type="image/webp"
-    />
+    <source srcSet="public\pictures\rezepte.webp" type="image/webp" />
     <img
       class="relative w-96 rounded-lg"
       src="/images/object/5.png"
-      alt="shopping item"
+      alt="Drei Getränke"
     />
   </picture>
 </div>
@@ -25,7 +22,7 @@
 </p>
 <br />
 
-<div class="flex flex-wrap items-center justify-center">
+<div class=" grid  justify-items-center grid-cols-1 sm:grid-cols-3">
   <div
     class="flex-shrink-0 mx-2 mb-6 relative overflow-hidden bg-yellow-500 rounded-lg max-w-xs shadow-lg"
   >
@@ -52,25 +49,26 @@
         fill="#f3c06b"
       />
     </svg>
-    <div class="relative pt-5 px-5 flex items-center justify-center">
+    <div class="relative px-2 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <picture>
         <source srcSet="/pictures/dermagischeTrump.webp" type="image/webp" />
         <img
-          class="relative w-56 rounded-lg   "
+          class="relative rounded-lg   "
           src="/images/object/5.png"
-          alt="shopping item"
+          alt="Der Magische Trupf"
         />
       </picture>
     </div>
-    <div class="relative text-white px-5 pb-5 mt-6">
+    <div class="relative text-white px-2 pb-2">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der Magische Trumpf</span>
-        <span
-          class="  bg-white rounded-full text-yellow-500 text-xs font-bold px-3 py-2 leading-none flex items-center"
+        <button
+          class="  bg-yellow-500 rounded-full text-white text-xs font-bold px-1 py-1 leading-none flex items-center"
+          href="/magischertrumpf"
         >
           <a href="/magischertrumpf">Rezept </a>
-        </span>
+        </button>
       </div>
     </div>
   </div>
@@ -100,15 +98,15 @@
         fill="#6da3fb"
       />
     </svg>
-    <div class="relative pt-5 px-5 flex items-center justify-center">
+    <div class="relative px-2 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <img
         class="relative w-56 rounded-lg"
-        src="https://images.unsplash.com/photo-1486428263684-28ec9e4f2584?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        alt="shopping"
+        src="/pictures/derschnelleLaeufer.webp"
+        alt="Der Schnelle Läufer"
       />
     </div>
-    <div class="relative text-white px-5 pb-5 mt-6">
+    <div class="relative text-white px-2 pb-2">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der schnelle Läufer </span>
         <span
@@ -145,15 +143,15 @@
         fill="#a17cf3"
       />
     </svg>
-    <div class="relative pt-5 px-5 flex items-center justify-center">
+    <div class="relative px-2 flex items-center justify-center">
       <div class="block absolute w-48 h-48 bottom-0 left-0 mb-24 ml-3" />
       <img
         class="relative w-56 rounded-lg"
-        src="https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        alt="shopping"
+        src="/pictures/derErfrischer.webp"
+        alt="Der Erfrischer"
       />
     </div>
-    <div class="relative text-white px-5 pb-5 mt-6">
+    <div class="relative text-white px-2 pb-2">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der Erfrischer</span>
         <span

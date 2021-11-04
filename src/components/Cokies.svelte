@@ -241,11 +241,7 @@
         /></svg
       >
     </div>
-    <span
-      class="font-montserat w-full sm:w-48  block leading-normal text-gray-800 dark:text-white text-md mb-3"
-    >
-      Wir verwenden ausschließlich Technisch Notwendige Cookies
-    </span>
+    <span> Wir verwenden ausschließlich Technisch Notwendige Cookies </span>
     <div class="flex items-center justify-between">
       <a
         class="font-apfel text-xs text-gray-400 dark:text-white mr-1 hover:text-gray-800 dark:hover:text-gray-100"
