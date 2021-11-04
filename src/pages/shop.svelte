@@ -1,7 +1,5 @@
 <script>
-  export var anzahldose = 0;
-  export var sortedose = 0;
-  export var dose = 0;
+  import { content } from "../data/stores";
 </script>
 
 <!--Shop Elemente -->
@@ -65,7 +63,7 @@
         <div class="flex mb-4 text-sm font-medium">
           <button
             type="button"
-            class="py-2 px-4 bg-yellow-400 dark:bg-yellow-700 hover:bg-yellow-500 bg:hover:bg-yellow-800 focus:ring-yellow-500 bg:focus:ring-yellow-800 focus:ring-offset-yellow-400 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
+            class="add-cart py-2 px-4 bg-yellow-400 dark:bg-yellow-700 hover:bg-yellow-500 bg:hover:bg-yellow-800 focus:ring-yellow-500 bg:focus:ring-yellow-800 focus:ring-offset-yellow-400 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
           >
             In den Einkaufswagen
           </button>
