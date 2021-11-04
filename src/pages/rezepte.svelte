@@ -2,7 +2,7 @@
 
 <div class="grid justify-items-center">
   <picture>
-    <source srcSet="public\pictures\rezepte.webp" type="image/webp" />
+    <source srcSet="/pictures/rezepte.webp" type="image/webp" />
     <img
       class="relative w-96 rounded-lg"
       src="/images/object/5.png"
