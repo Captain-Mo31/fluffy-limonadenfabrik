@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   mode: 'jit',
   purge: {
@@ -5,7 +7,19 @@ module.exports = {
   },
   darkMode: "media", // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        apfel: [
+          "'apfel'",
+          ...defaultTheme.fontFamily.sans,
+         ],
+          montserat: [
+            "'montserat'",
+            ...defaultTheme.fontFamily.sans,
+          ],
+       
+      },
+    },
   },
   variants: {
     extend: {},

@@ -11,21 +11,21 @@
   let showMenu = false;
 </script>
 
-<nav
-  class=" bg-yellow-400 dark:bg-yellow-700 shadow mb-10 font-serif text-white"
->
+<nav class=" bg-yellow-400 dark:bg-yellow-700 shadow mb-10  text-white font-apfel">
   <div class="max-w-7xl mx-auto px-8">
     <div class="flex items-center justify-between h-24">
       <div class="w-full justify-between flex items-center">
-        <a href="/" class="h-16 w-16 items-start m-2" alt="Icon Lemonade">
-          <Logo />
-        </a>
-        <a
-          class=" text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-3xl font-medium"
-          href="/"
-        >
-          Fluffy
-        </a>
+        <div class="flex flex-row items-center">
+          <a href="/" class="h-16 w-16 items-start m-2" alt="Icon Lemonade">
+            <Logo />
+          </a>
+          <a
+            class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-3xl font-medium"
+            href="/"
+          >
+            Fluffy
+          </a>
+        </div>
         <div class="hidden md:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
