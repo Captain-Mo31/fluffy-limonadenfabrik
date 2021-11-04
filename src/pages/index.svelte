@@ -57,7 +57,7 @@
     <br />
     <div class="grid justify-items-center">
       <a
-        class=" px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 dark:hover:bg-yellow-700 hover:text-white border-2 border-gray-900 dark:border-white focus:outline-none"
+        class=" px-2 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 dark:hover:bg-yellow-700 hover:text-white border-2 border-gray-900 dark:border-white focus:outline-none"
         href="/gewinnspiel"
       >
         <p class="dark:text-white text-black">Schick uns deine Lösung!</p>

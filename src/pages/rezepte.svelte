@@ -63,12 +63,12 @@
     <div class="relative text-white px-2 pb-2">
       <div class="flex justify-between">
         <span class="block font-semibold text-xl"> Der Magische Trumpf</span>
-        <button
+        <a
           class="  bg-yellow-500 rounded-full text-white text-xs font-bold px-1 py-1 leading-none flex items-center"
           href="/magischertrumpf"
         >
-          <a href="/magischertrumpf">Rezept </a>
-        </button>
+          <p>Rezept</p>
+        </a>
       </div>
     </div>
   </div>
