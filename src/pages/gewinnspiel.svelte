@@ -4,7 +4,7 @@
 </script>
 
 <div class:hidden={!showsolve}>
-  <p class="text-center text-4xl dark:text-white text-black">
+  <p class="text-center text-4xl dark:text-white text-black  mb-10">
     Schick uns deine Lösung:
   </p>
 
@@ -31,8 +31,21 @@
   </div>
 </div>
 
-<div class:hidden={!showdanke}>
+<div class:hidden={!showdanke} class="grid justify-items-center mb-10">
   <p class="text-center text-4xl dark:text-white text-black mb-20">
     Danke für deine Antwort
   </p>
+  <div style="width:50%">
+    <div style="height:0;padding-bottom:100%;position:relative;width:100%">
+      <iframe
+        allowfullscreen=""
+        frameBorder="0"
+        height="100%"
+        src="https://giphy.com/embed/b8w2UKtIFcADoCmSJC/video"
+        style="left:0;position:absolute;top:0"
+        width="100%"
+        class="rounded-lg"
+      />
+    </div>
+  </div>
 </div>

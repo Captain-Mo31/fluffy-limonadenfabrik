@@ -1,4 +1,4 @@
-<h1 class=" text-center">Über uns:</h1>
+<p class=" text-center text-4xl dark:text-white">Über uns:</p>
 <img
   alt="Group photo "
   src="/pictures/mitarbeiter.webp"

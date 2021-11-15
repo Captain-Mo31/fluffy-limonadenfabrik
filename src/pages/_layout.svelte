@@ -8,9 +8,9 @@
 <body class="bg-gray-50 w-full h-auto dark:bg-gray-900   ">
   <Navbar />
   <div
-    class=" overflow-hidden w-full grid justify-items-center dark:text-white font-montserat"
+    class=" overflow-hidden w-screen grid justify-items-center dark:text-white font-montserat"
   >
-    <main class="w-11/12 prose md:w-3/4 ">
+    <main class="w-11/12  md:w-6/12 ">
       <slot />
     </main>
   </div>

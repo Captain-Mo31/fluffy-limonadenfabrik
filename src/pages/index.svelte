@@ -5,22 +5,14 @@
   metatags.description = "Description coming soon...";
 </script>
 
-<div class="w-full grid justify-items-center ">
-  <img
-    alt="Wilkommen Bild"
-    src="/pictures/welcome.webp"
-    class="rounded-lg"
-    aria-label="Wilkommen Bild"
-    width="1632"
-    height="918"
-  />
-</div>
-<p class="text-center dark:text-white text-5xl">Wilkommen bei Fluffy</p>
+<p class="text-center dark:text-white text-6xl font-apfel p-5">
+  Wilkommen bei Fluffy
+</p>
 
-<p class="text-center dark:text-white text-4xl">Aktuelles:</p>
+<p class="text-center dark:text-white text-5xl font-apfel p-7">Aktuelles:</p>
 
 <div
-  class="overflow-hidden shadow-lg rounded-lg h-90 w-10/12 md:w-2/3 cursor-pointer m-auto"
+  class="overflow-hidden shadow-lg  dark:bg-gray-800 rounded-lg h-auto w-10/12 md:w-7/12 cursor-pointer m-auto "
 >
   <img
     alt="Dartspiel Foto"
@@ -31,28 +23,32 @@
     height="981"
   />
   <div class="bg-white dark:bg-gray-800 w-full p-4">
-    <p class="text-black dark:text-white text-xl mb-2 text-center">
+    <p class="text-black dark:text-white text-3xl text-center my-5">
       Gewinnspiel
     </p>
-    <p class="text-black dark:text-white font-light text-md">
+    <p class="text-black dark:text-white font-light text-lg">
       Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
     </p>
-    <ol class="dark:text-white text-black">
-      <li>Eine Reise in den Harz</li>
-      <li>Ein Jahr ein Monatsabo an Limonade</li>
-      <li>Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH</li>
-    </ol>
+    <div class="prose">
+      <ol class="dark:text-white text-black list-inside ">
+        <li>Eine Reise in den Harz</li>
+        <li>Ein Jahr ein Monatsabo an Limonade</li>
+        <li>
+          Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH
+        </li>
+      </ol>
+    </div>
     <p class="dark:text-white text-black">
       Teilnehmen kann jeder der mindestens 18 Jahre alt ist. Mitmachen kann man
       noch bis zum 31.10.2021.
     </p>
     <p class="dark:text-white text-black">
       <strong
-        ><p class="dark:text-white text-black">
+        ><p class="dark:text-white text-black py-3">
           Die Preisfrage lautet:
         </p></strong
       >
-      Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?
+      Wie viele Mitarbeiter hat die Fluffy GmbH zur Zeit?
     </p>
     <br />
     <div class="grid justify-items-center">
@@ -60,13 +56,15 @@
         class=" px-2 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-yellow-400 dark:hover:bg-yellow-700 hover:text-white border-2 border-gray-900 dark:border-white focus:outline-none"
         href="/gewinnspiel"
       >
-        <p class="dark:text-white text-black">Schick uns deine Lösung!</p>
+        <button class="dark:text-white text-black"
+          >Schick uns deine Lösung!</button
+        >
       </a>
     </div>
     <sub class="text-center">
       <strong>
-        <p class="dark:text-white text-black text-2xl">Viel Erfolg!</p></strong
-      >
+        <p class="dark:text-white text-black text-2xl">Viel Erfolg!</p>
+      </strong>
     </sub>
   </div>
 </div>

@@ -241,7 +241,9 @@
         /></svg
       >
     </div>
-    <span> Wir verwenden ausschließlich Technisch Notwendige Cookies </span>
+    <span class="dark:text-white">
+      Wir verwenden ausschließlich Technisch Notwendige Cookies
+    </span>
     <div class="flex items-center justify-between">
       <a
         class="font-apfel text-xs text-gray-400 dark:text-white mr-1 hover:text-gray-800 dark:hover:text-gray-100"

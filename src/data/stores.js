@@ -2,12 +2,12 @@
 import { writable } from 'svelte/store'
 
 // Get the value out of storage on load.
-const stored = localStorage.content
+const cookies = localStorage.cookies
 const storedanzahldose = localStorage.anzahldose
 // or localStorage.getItem('content')
 
 // Set the stored value or a sane default.
-export const content = writable(stored || 'Hello, World!')
+export const content = writable(cookies || 'true')
 export const anzahldose = writable(storedanzahldose || '0')
 
 
