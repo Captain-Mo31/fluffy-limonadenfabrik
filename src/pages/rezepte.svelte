@@ -8,13 +8,13 @@
   <picture>
     <source srcSet="/pictures/rezepte.webp" type="image/webp" />
     <img
-      class="h-80 w-full rounded-lg"
+      class="h-96 w-full rounded-lg"
       src="/images/object/5.png"
       alt="Drei Getränke"
     />
   </picture>
 
-  <p class=" text-black dark:text-white">
+  <p class=" text-black dark:text-white  text-lg md:pl-2 ">
     Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder
     Ernährung: Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche
     Art hergestellt wird. Fluffy-Limonade ist von Haus aus calciumreich aber
