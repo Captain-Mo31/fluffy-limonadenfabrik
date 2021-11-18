@@ -3,8 +3,7 @@
 >
   Rezepte:
 </p>
-
-<div class="grid justify-items-center grid-cols-1 sm:grid-cols-2 mb-10 ">
+<div class="my-5 shadow-lg rounded-lg ">
   <picture>
     <source srcSet="/pictures/rezepte.webp" type="image/webp" />
     <img
@@ -14,7 +13,7 @@
     />
   </picture>
 
-  <p class=" text-black dark:text-white  text-lg md:pl-2 ">
+  <p class=" text-black dark:text-white  text-lg p-2 pt-5">
     Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder
     Ernährung: Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche
     Art hergestellt wird. Fluffy-Limonade ist von Haus aus calciumreich aber
@@ -24,6 +23,11 @@
     die tägliche Versorgung mit Mineralstoffen und Spurenelementen
     sicherzustellen.
   </p>
+  <p class="text-lg pb-2 pl-2 pr-2 ">
+    So haben wir uns entschlossen uns einige Leeckere und gesunde Rezepte zu
+    Überlgen die dir den Tag versüßen:
+  </p>
+
   <br />
 </div>
 <div class=" grid  justify-items-center grid-cols-1 sm:grid-cols-2 w-full">

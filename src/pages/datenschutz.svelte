@@ -1,34 +1,39 @@
-<p class="text-center dark:text-white text-3xl">Datenschutzerklärung</p>
-<div class="dark:text-white  ">
+<p class="py-2 text-center dark:text-white text-4xl font-apfel ">
+  Datenschutzerklärung
+</p>
+<div class="py-2ark:text-white  ">
   <p>
     Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der
     EU-Datenschutzgrundverordnung (DSGVO), ist:
   </p>
   <p>Arnold Weißenegger</p>
-  <p class="dark:text-white text-2xl">Ihre Betroffenenrechte</p>
+  <p class="py-2 dark:text-white text-2xl">Ihre Betroffenenrechte</p>
   <p>
     Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können
     Sie jederzeit folgende Rechte ausüben:
   </p>
-  <ul>
-    <li>
-      Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung
-      (Art. 15 DSGVO),
-    </li>
-    <li>Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),</li>
-    <li>Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),</li>
-    <li>
-      Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund
-      gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
-    </li>
-    <li>
-      Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und
-    </li>
-    <li>
-      Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt
-      haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
-    </li>
-  </ul>
+  <div class="prose font-montserat text-black">
+    <ul>
+      <li>
+        Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung
+        (Art. 15 DSGVO),
+      </li>
+      <li>Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),</li>
+      <li>Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),</li>
+      <li>
+        Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund
+        gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
+      </li>
+      <li>
+        Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO)
+        und
+      </li>
+      <li>
+        Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt
+        haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
+      </li>
+    </ul>
+  </div>
   <p>
     Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit
     mit Wirkung für die Zukunft widerrufen.
@@ -42,15 +47,17 @@
   <p>
     Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit
     Anschrift finden Sie unter: <a
-      href="https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html"
-      target="_blank"
-      rel="noopener nofollow"
+      href="py-2 https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html"
+      target="py-2 _blank"
+      rel="py-2 noopener nofollow"
       >https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html</a
     >
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Registrierung auf unserer Website</p>
-  <p class=" dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
+  <p class="py-2  dark:text-white text-2xl">
+    Registrierung auf unserer Website
+  </p>
+  <p class="py-2  dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
   <p>
     Für die Registrierung auf unserer Website benötigen wir einige
     personenbezogene Daten, die über eine Eingabemaske an uns übermittelt
@@ -61,23 +68,23 @@
     Ihre Registrierung ist für das Bereithalten bestimmter Inhalte und
     Leistungen auf unserer Website erforderlich.
   </p>
-  <p class=" dark:text-white text-xl">Rechtsgrundlage:</p>
+  <p class="py-2  dark:text-white text-xl">Rechtsgrundlage:</p>
   <p>
     Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt auf
     Grundlage einer Einwilligung des Nutzers (Art. 6 Abs. 1 lit. a DSGVO).
   </p>
-  <p class=" dark:text-white text-xl">Empfänger:</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger:</p>
   <p>
     Empfänger der Daten sind ggf. technische Dienstleister, die für den Betrieb
     und die Wartung unserer Website als Auftragsverarbeiter tätig werden.
   </p>
   <p />
-  <p class=" dark:text-white text-xl">Speicherdauer:</p>
+  <p class="py-2  dark:text-white text-xl">Speicherdauer:</p>
   <p>
     Daten werden in diesem Zusammenhang nur verarbeitet, solange die
     entsprechende Einwilligung vorliegt.
   </p>
-  <p class=" dark:text-white text-xl">
+  <p class="py-2  dark:text-white text-xl">
     Bereitstellung vorgeschrieben oder erforderlich:
   </p>
   <p>
@@ -87,30 +94,30 @@
     angebotenen Inhalte gewähren.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">
+  <p class="py-2  dark:text-white text-2xl">
     Erbringung kostenpflichtiger Leistungen
   </p>
-  <p class=" dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
+  <p class="py-2  dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
   <p>
     Zur Erbringung kostenpflichtiger Leistungen werden von uns zusätzliche Daten
     erfragt, wie z.B. Zahlungsangaben, um Ihre Bestellung ausführen zu können.
   </p>
-  <p class=" dark:text-white text-xl">Rechtsgrundlage:</p>
+  <p class="py-2  dark:text-white text-xl">Rechtsgrundlage:</p>
   <p>
     Die Verarbeitung der Daten, die für den Abschluss des Vertrages erforderlich
     ist, basiert auf Art. 6 Abs. 1 lit. b DSGVO.
   </p>
-  <p class=" dark:text-white text-xl">Empfänger:</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger:</p>
   <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
   <p />
-  <p class=" dark:text-white text-xl">Speicherdauer:</p>
+  <p class="py-2  dark:text-white text-xl">Speicherdauer:</p>
   <p>
     Wir speichern diese Daten in unseren Systemen bis die gesetzlichen
     Aufbewahrungsfristen abgelaufen sind. Diese betragen grundsätzlich 6 oder 10
     Jahre aus Gründen der ordnungsmäßigen Buchführung und steuerrechtlichen
     Anforderungen.
   </p>
-  <p class=" dark:text-white text-xl">
+  <p class="py-2  dark:text-white text-xl">
     Bereitstellung vorgeschrieben oder erforderlich:
   </p>
   <p>
@@ -119,8 +126,8 @@
     Zugang auf unsere angebotenen Inhalte und Leistungen gewähren.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Kommentarfunktion</p>
-  <p class="dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
+  <p class="py-2  dark:text-white text-2xl">Kommentarfunktion</p>
+  <p class="py-2 dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
   <p>
     Wenn Nutzer Kommentare auf unserer Website hinterlassen, werden neben diesen
     Angaben auch der Zeitpunkt ihrer Erstellung und der zuvor durch den
@@ -128,7 +135,7 @@
     Sicherheit, da wir für widerrechtliche Inhalte auf unserer Webseite belangt
     werden können, auch wenn diese durch Benutzer erstellt wurden.
   </p>
-  <p class=" dark:text-white text-xl">Rechtsgrundlage:</p>
+  <p class="py-2  dark:text-white text-xl">Rechtsgrundlage:</p>
   <p>
     Die Verarbeitung der als Kommentar eingegebenen Daten erfolgt auf der
     Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
@@ -139,10 +146,10 @@
     Zwecke der Bearbeitung der Anfrage sowie für mögliche Anschlussfragen
     gespeichert.
   </p>
-  <p class=" dark:text-white text-xl">Empfänger:</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger:</p>
   <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
   <p />
-  <p class=" dark:text-white text-xl">Speicherdauer:</p>
+  <p class="py-2  dark:text-white text-xl">Speicherdauer:</p>
   <p>
     Die Daten werden gelöscht, sobald diese für den Zweck der Erhebung nicht
     mehr erforderlich sind. Dies ist grundsätzlich der Fall, wenn die
@@ -158,7 +165,7 @@
     übermitteln den Link zu Ihrem Kommentar sowie zu Identifikationszwecken die
     bei der Erstellung des Kommentars verwendete E-Mail-Adresse.
   </p>
-  <p class=" dark:text-white text-xl">
+  <p class="py-2  dark:text-white text-xl">
     Bereitstellung vorgeschrieben oder erforderlich:
   </p>
   <p>
@@ -167,8 +174,8 @@
     Zugang zu unserer Kommentarfunktion gewähren.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Newsletter</p>
-  <p class=" dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
+  <p class="py-2  dark:text-white text-2xl">Newsletter</p>
+  <p class="py-2  dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
   <p>
     Für die Zustellung unseres Newsletters erheben wir personenbezogene Daten,
     die über eine Eingabemaske an uns übermittelt werden.
@@ -181,7 +188,7 @@
     Bestätigungsmail und den Eingang der hiermit angeforderten Antwort. Weitere
     Daten werden nicht erhoben.
   </p>
-  <p class=" dark:text-white text-xl">Rechtsgrundlage:</p>
+  <p class="py-2  dark:text-white text-xl">Rechtsgrundlage:</p>
   <p>
     Auf Grundlage Ihrer ausdrücklich erteilten Einwilligung (Art. 6 Abs. 1 lit.
     a DSGVO), übersenden wir Ihnen regelmäßig unseren Newsletter bzw.
@@ -195,15 +202,15 @@
     oder uns Ihren Widerruf über die am Ende dieser Datenschutzhinweise
     angegebene Kontaktmöglichkeit mitteilen.
   </p>
-  <p class=" dark:text-white text-xl">Empfänger:</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger:</p>
   <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
   <p />
-  <p class=" dark:text-white text-xl">Speicherdauer:</p>
+  <p class="py-2  dark:text-white text-xl">Speicherdauer:</p>
   <p>
     Die Daten werden in diesem Zusammenhang nur verarbeitet, solange die
     entsprechende Einwilligung vorliegt. Danach werden sie gelöscht.
   </p>
-  <p class=" dark:text-white text-xl">
+  <p class="py-2  dark:text-white text-xl">
     Bereitstellung vorgeschrieben oder erforderlich:
   </p>
   <p>
@@ -211,7 +218,7 @@
     auf Basis Ihrer Einwilligung. Ohne bestehende Einwilligung können wir Ihnen
     unseren Newsletter leider nicht zusenden.
   </p>
-  <p class=" dark:text-white text-xl">Widerruf der Einwilligung:</p>
+  <p class="py-2  dark:text-white text-xl">Widerruf der Einwilligung:</p>
   <p>
     Die Einwilligung zur Speicherung Ihrer persönlichen Daten und ihrer Nutzung
     für den Newsletterversand können Sie jederzeit mit Wirkung für die Zukunft
@@ -220,8 +227,8 @@
     Datenschutz zuständigen Person beantragt werden.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Kontaktformular</p>
-  <p class=" dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
+  <p class="py-2  dark:text-white text-2xl">Kontaktformular</p>
+  <p class="py-2  dark:text-white text-xl">Art und Zweck der Verarbeitung:</p>
   <p>
     Die von Ihnen eingegebenen Daten werden zum Zweck der individuellen
     Kommunikation mit Ihnen gespeichert. Hierfür ist die Angabe einer validen
@@ -229,7 +236,7 @@
     der Anfrage und der anschließenden Beantwortung derselben. Die Angabe
     weiterer Daten ist optional.
   </p>
-  <p class=" dark:text-white text-xl">Rechtsgrundlage:</p>
+  <p class="py-2  dark:text-white text-xl">Rechtsgrundlage:</p>
   <p>
     Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf
     der Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO).
@@ -245,17 +252,17 @@
     die Verarbeitung der in das Kontaktformular eingegebenen Daten zur
     Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO).
   </p>
-  <p class=" dark:text-white text-xl">Empfänger:</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger:</p>
   <p>Empfänger der Daten sind ggf. Auftragsverarbeiter.</p>
   <p />
-  <p class=" dark:text-white text-xl">Speicherdauer:</p>
+  <p class="py-2  dark:text-white text-xl">Speicherdauer:</p>
   <p>Daten werden spätestens 6 Monate nach Bearbeitung der Anfrage gelöscht.</p>
   <p>
     Sofern es zu einem Vertragsverhältnis kommt, unterliegen wir den
     gesetzlichen Aufbewahrungsfristen nach HGB und löschen Ihre Daten nach
     Ablauf dieser Fristen.
   </p>
-  <p class=" dark:text-white text-xl">
+  <p class="py-2  dark:text-white text-xl">
     Bereitstellung vorgeschrieben oder erforderlich:
   </p>
   <p>
@@ -264,7 +271,7 @@
     E-Mail-Adresse und den Grund der Anfrage mitteilen.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Verwendung von Google Maps</p>
+  <p class="py-2  dark:text-white text-2xl">Verwendung von Google Maps</p>
   <p>
     Auf dieser Website nutzen wir das Angebot von Google Maps. Google Maps wird
     von Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
@@ -274,18 +281,18 @@
     Datenverarbeitung durch Google können Sie den Google-Datenschutzhinweisen
     entnehmen:
     <a
-      href="https://policies.google.com/privacy"
-      rel="noopener nofollow"
-      target="_blank">https://policies.google.com/privacy</a
+      href="py-2 https://policies.google.com/privacy"
+      rel="py-2 noopener nofollow"
+      target="py-2 _blank">https://policies.google.com/privacy</a
     >. Dort können Sie im Datenschutzcenter auch Ihre persönlichen
     Datenschutz-Einstellungen verändern.
   </p>
   <p>
     Ausführliche Anleitungen zur Verwaltung der eigenen Daten im Zusammenhang
     mit Google-Produkten finden Sie hier: <a
-      href="https://www.dataliberation.org/"
-      rel="noopener nofollow"
-      target="_blank">https://www.dataliberation.org</a
+      href="py-2 https://www.dataliberation.org/"
+      rel="py-2 noopener nofollow"
+      target="py-2 _blank">https://www.dataliberation.org</a
     >
   </p>
   <p>
@@ -306,7 +313,7 @@
     steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei
     Sie sich zur Ausübung dessen an Google richten müssen.
   </p>
-  <p class=" dark:text-white text-xl">Widerruf der Einwilligung:</p>
+  <p class="py-2  dark:text-white text-xl">Widerruf der Einwilligung:</p>
   <p>
     Vom Anbieter wird derzeit keine Möglichkeit für einen einfachen Opt-out oder
     ein Blockieren der Datenübertragung angeboten. Wenn Sie eine Nachverfolgung
@@ -317,7 +324,7 @@
     nicht oder nur eingeschränkt nutzen.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">Eingebettete YouTube-Videos</p>
+  <p class="py-2  dark:text-white text-2xl">Eingebettete YouTube-Videos</p>
   <p>
     Auf unserer Website betten wir YouTube-Videos ein. Betreiber der
     entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA
@@ -339,11 +346,11 @@
     Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des
     Anbieters, Dort erhalten Sie auch weitere Informationen zu Ihren
     diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer
-    Privatsphäre (<a href="https://policies.google.com/privacy"
+    Privatsphäre (<a href="py-2 https://policies.google.com/privacy"
       >https://policies.google.com/privacy</a
     >).
   </p>
-  <p class=" dark:text-white text-xl">Widerruf der Einwilligung:</p>
+  <p class="py-2  dark:text-white text-xl">Widerruf der Einwilligung:</p>
   <p>
     Vom Anbieter wird derzeit keine Möglichkeit für einen einfachen Opt-out oder
     ein Blockieren der Datenübertragung angeboten. Wenn Sie eine Nachverfolgung
@@ -354,7 +361,7 @@
     nicht oder nur eingeschränkt nutzen.
   </p>
   <p />
-  <p class=" dark:text-white text-2xl">SSL-Verschlüsselung</p>
+  <p class="py-2  dark:text-white text-2xl">SSL-Verschlüsselung</p>
   <p>
     Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir
     dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z.
@@ -362,10 +369,12 @@
   </p>
   <p />
   <hr />
-  <p class=" dark:text-white text-2xl">
+  <p class="py-2  dark:text-white text-2xl">
     Information über Ihr Widerspruchsrecht nach Art. 21 DSGVO
   </p>
-  <p class=" dark:text-white text-xl">Einzelfallbezogenes Widerspruchsrecht</p>
+  <p class="py-2  dark:text-white text-xl">
+    Einzelfallbezogenes Widerspruchsrecht
+  </p>
   <p>
     Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation
     ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener
@@ -381,7 +390,7 @@
     überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder
     Verteidigung von Rechtsansprüchen.
   </p>
-  <p class=" dark:text-white text-xl">Empfänger eines Widerspruchs</p>
+  <p class="py-2  dark:text-white text-xl">Empfänger eines Widerspruchs</p>
   <p>
     Fluffy GmbH
     <br />Geschäftsführer: Arnold Weißenegger
@@ -389,7 +398,7 @@
     <br />Email: Datenschutz@fluffy.de
   </p>
   <hr />
-  <p class="dark:text-white text-2xl">
+  <p class="py-2 dark:text-white text-2xl">
     Änderung unserer Datenschutzbestimmungen
   </p>
   <p>
@@ -399,13 +408,16 @@
     Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue
     Datenschutzerklärung.
   </p>
-  <p class=" dark:text-white text-xl">Fragen an den Datenschutzbeauftragten</p>
+  <p class="py-2  dark:text-white text-xl">
+    Fragen an den Datenschutzbeauftragten
+  </p>
   <p>
     Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail
     oder wenden Sie sich direkt an die für den Datenschutz verantwortliche
     Person in unserer Organisation:
   </p>
-  <p class="">
+
+  <p class="pt-10 text-center">
     Arnold Weißenegger
     <br />Fon: 040 / 999 888
     <br />Email: Datenschutz@fluffy.de

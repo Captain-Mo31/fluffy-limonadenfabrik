@@ -24,12 +24,12 @@
     }
     @font-face {
       font-family: "montserat";
-      src: url("public\fonts\montserrat\Montserrat-Regular.ttf") format("ttf");
+      src: url("/fonts/montserrat/Montserrat-Regular.ttf") format("ttf");
       font-display: swap;
     }
     @font-face {
       font-family: "montserat";
-      src: url("public\fonts\montserrat\Montserrat-Bold.ttf") format("ttf");
+      src: url("/fonts/montserrat/Montserrat-Bold.ttf") format("ttf");
       font-display: swap;
     }
   }

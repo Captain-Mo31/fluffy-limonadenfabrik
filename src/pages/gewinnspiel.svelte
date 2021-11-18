@@ -4,7 +4,7 @@
 </script>
 
 <div class:hidden={!showsolve}>
-  <p class="text-center text-4xl dark:text-white text-black  mb-10">
+  <p class="text-center text-4xl dark:text-white text-black  mb-10 font-apfel">
     Schick uns deine Lösung:
   </p>
 
@@ -12,9 +12,21 @@
     <input
       type="number"
       min="0"
-      id="rounded-email"
-      class="w-full md:w-1/2 m-10 rounded-lg border-transparent flex-1 appearance-none border border-yellow-400  dark:border-yellow-700 py-4 px-4 bg-white text-yellow-400 dark:bg-gray-800 placeholder-gray-400 hover:placeholder-yellow-400 shadow-sm text-base focus:outline-none focus:ring-2   focus:border-transparent"
+      id="solve"
+      class=" w-full md:w-1/2 m-2 rounded-lg border-transparent flex-1 appearance-none border border-yellow-400  dark:border-yellow-700 py-4 px-4 bg-white text-black dark:bg-gray-800 placeholder-gray-400 hover:placeholder-yellow-400 shadow-sm text-base focus:outline-none focus:ring-2   focus:border-transparent"
       placeholder="Deine Lösung"
+    />
+    <input
+      type="name"
+      id="rounded-email"
+      class="w-full md:w-1/2 m-2 rounded-lg border-transparent flex-1 appearance-none border border-yellow-400  dark:border-yellow-700 py-4 px-4 bg-white text-black dark:bg-gray-800 placeholder-gray-400 hover:placeholder-yellow-400 shadow-sm text-base focus:outline-none focus:ring-2   focus:border-transparent"
+      placeholder="Dein Name"
+    />
+    <input
+      type="email"
+      id="rounded-email"
+      class="mb-5 w-full md:w-1/2 m-2 rounded-lg border-transparent flex-1 appearance-none border border-yellow-400  dark:border-yellow-700 py-4 px-4 bg-white text-black  dark:bg-gray-800 placeholder-gray-400 hover:placeholder-yellow-400 shadow-sm text-base focus:outline-none focus:ring-2   focus:border-transparent"
+      placeholder="Deine Email Adresse"
     />
 
     <button
