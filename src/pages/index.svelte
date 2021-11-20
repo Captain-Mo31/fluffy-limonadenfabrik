@@ -30,7 +30,7 @@
       Machen Sie mit und Sie erhalten die Chance auf wertvolle Preise:
     </p>
     <div class="prose">
-      <ol class="dark:text-white text-black list-inside ">
+      <ol class="dark:text-white text-black list-inside font-montserat ">
         <li>Eine Reise in den Harz</li>
         <li>Ein Jahr ein Monatsabo an Limonade</li>
         <li>

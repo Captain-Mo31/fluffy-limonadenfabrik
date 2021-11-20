@@ -1,10 +1,8 @@
-<script>
-  import { anzahldose } from "../data/stores";
-  $: displayedanzahl = $anzahldose;
-</script>
-
-<p class="text-center dark:text-white text-4xl">
+<p class="text-center dark:text-white text-4xl font-apfel">
   Zur Zeit sind keine Artikel im Warenkorb
 </p>
-
-<p>{displayedanzahl}</p>
+<img
+  alt="Group photo "
+  src="/pictures/warenkorb.webp"
+  class="w-full  object-cover responsive rounded-lg py-5"
+/>
