@@ -22,7 +22,7 @@
             <Logo />
           </a>
           <a
-            class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-3xl font-medium"
+            class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white px-3 py-2 rounded-md text-3xl font-medium"
             href="/"
           >
             Fluffy
@@ -31,31 +31,31 @@
         <div class="hidden md:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
-              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/"
             >
               Home
             </a>
             <a
-              class=" dark:text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/about"
             >
               Über uns
             </a>
             <a
-              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-whit hover:text-yellow-500 px-3 py-2 rounded-md text-xl font-medium"
               href="/shop"
             >
               Shop
             </a>
             <a
-              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/rezepte"
             >
               Rezepte
             </a>
             <a
-              class="text-white  hover:text-gray-800 dark:hover:text-white px-3 py-2 rounded-md text-xl font-medium"
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500 px-3 py-2 rounded-md text-xl font-medium"
               href="/partner"
             >
               Partner
@@ -63,7 +63,7 @@
             <!--Warenkorb-->
             <a
               href="/warenkorb"
-              class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200 scale-150"
+              class="p-2 -mb-10  rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500 transition-colors duration-200 scale-150 "
               aria-label="Warenkorb"
             >
               <svg

@@ -7,7 +7,7 @@
     >
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
+          class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
           href="/impressum"
         >
           Impressum
@@ -15,7 +15,7 @@
       </li>
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
+          class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
           href="/datenschutz"
         >
           Datenschutz
@@ -23,24 +23,26 @@
       </li>
       <li class="my-2">
         <a
-          class="text-white hover:text-gray-800 dark:text-white dark:hover:text-white transition-colors duration-200"
+          class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
           href="/kontakt"
         >
           Kontakt
         </a>
       </li>
     </ul>
-    <div class="pt-8 flex max-w-xs mx-auto items-center justify-between">
+    <div
+      class="pt-8 p-2 rounded-lg flex max-w-xs mx-auto items-center justify-between"
+    >
       <a
         href="https://de-de.facebook.com/"
-        class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white  transition-colors duration-200"
         aria-label="Link zu Facebook"
       >
         <svg
           width="20"
           height="20"
           fill="currentColor"
-          class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+          class="text-xl  dark:hover:text-white transition-colors duration-200"
           viewBox="0 0 1792 1792"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -51,14 +53,14 @@
       </a>
       <a
         href="https://twitter.com/"
-        class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
         aria-label="Link zu Twitter"
       >
         <svg
           width="20"
           height="20"
           fill="currentColor"
-          class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+          class="text-xl  dark:hover:text-white transition-colors duration-200"
           viewBox="0 0 1792 1792"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -69,7 +71,7 @@
       </a>
       <a
         href="https://github.com/Captain-Mo31/fluffy-limonadenfabrik"
-        class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
         aria-label="Link zum Github repository"
       >
         <svg
@@ -77,7 +79,7 @@
           width="20"
           height="20"
           fill="currentColor"
-          class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+          class="text-xl  dark:hover:text-white transition-colors duration-200"
           viewBox="0 0 1792 1792"
         >
           <path
@@ -87,14 +89,14 @@
       </a>
       <a
         href="https://www.linkedin.com/"
-        class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+        class="p-2 rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800  hover:text-yellow-500 text-white transition-colors duration-200"
         aria-label="Link zu Linkedin"
       >
         <svg
           width="20"
           height="20"
           fill="currentColor"
-          class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
+          class="text-xl  dark:hover:text-white transition-colors duration-200"
           viewBox="0 0 1792 1792"
           xmlns="http://www.w3.org/2000/svg"
         >

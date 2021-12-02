@@ -12,7 +12,7 @@
     Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können
     Sie jederzeit folgende Rechte ausüben:
   </p>
-  <div class="prose font-montserat text-black">
+  <div class="prose font-montserat text-black dark:text-white">
     <ul>
       <li>
         Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung
