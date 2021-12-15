@@ -18,7 +18,11 @@
     <div class="flex items-center justify-between h-24">
       <div class="w-full justify-between flex items-center">
         <div class="flex flex-row items-center">
-          <a href="/" class="h-16 w-16 items-start m-2" alt="Icon Lemonade">
+          <a
+            href="/"
+            class="h-16 w-16 items-start m-2 mb-5"
+            alt="Icon Lemonade"
+          >
             <Logo />
           </a>
           <a
@@ -63,21 +67,10 @@
             <!--Warenkorb-->
             <a
               href="/warenkorb"
-              class="p-2 -mb-10  rounded-lg hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500 transition-colors duration-200 scale-150 "
+              class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium "
               aria-label="Warenkorb"
             >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
-                fill="currentColor"
-                class="bi bi-cart"
-                viewBox="0 0 16 16"
-              >
-                <path
-                  d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"
-                />
-              </svg>
+              Warenkorb
             </a>
           </div>
         </div>

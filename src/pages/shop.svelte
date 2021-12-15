@@ -431,7 +431,7 @@
                 name="Sorte"
               >
                 <option value="Anzahl auswählen">Sorte auswählen </option>
-                <option value="Zitrone">Himber</option>
+                <option value="Zitrone">Himbeere</option>
                 <option value="Orange">Orange</option>
               </select>
             </div>
@@ -493,7 +493,7 @@
                 <option value="Anzahl auswählen">Sorte auswählen </option>
                 <option value="Zitrone">Zitrone</option>
                 <option value="Orange">Orange</option>
-                <option value="Orange">Himber</option>
+                <option value="Orange">Himbeere</option>
               </select>
             </div>
             <div
