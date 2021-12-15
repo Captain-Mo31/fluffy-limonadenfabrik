@@ -1,15 +1,8 @@
 <script>
-  document.cookie = "cookie=false";
-
-  function getCookieValue(cookie) {
-    let result = document.cookie.match(
-      "(^|[^;]+)\\s*" + cookie + "\\s*=\\s*([^;]+)"
-    );
-    return result ? result.pop() : "cookie";
-  }
+  let cookie = true;
 </script>
 
-<div>
+<div class:hidden={!cookie}>
   <div
     class="w-72 bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 fixed bottom-5 right-5"
   >
@@ -262,6 +255,9 @@
         <button
           type="button"
           class="font-apfel py-2 px-4  bg-yellow-400 dark:bg-yellow-700 dark:hover:bg-yellow-600 hover:bg-yellow-300 focus:ring-yellow-500 focus:ring-offset-yellow-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg "
+          on:click={() => {
+            cookie = false;
+          }}
         >
           Akzeptieren
         </button>
