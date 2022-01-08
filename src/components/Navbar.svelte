@@ -32,7 +32,7 @@
             Fluffy
           </a>
         </div>
-        <div class="hidden md:block">
+        <div class="hidden lg:block">
           <div class="ml-10 flex items-baseline space-x-4">
             <a
               class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
@@ -44,7 +44,7 @@
               class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-white hover:text-yellow-500  px-3 py-2 rounded-md text-xl font-medium"
               href="/about"
             >
-              Über uns
+              Über&nbsp;uns
             </a>
             <a
               class="hover:bg-yellow-100 dark:hover:bg-yellow-400 dark:hover:text-yellow-800 text-whit hover:text-yellow-500 px-3 py-2 rounded-md text-xl font-medium"
@@ -76,9 +76,9 @@
         </div>
       </div>
       <div class="block">
-        <div class="ml-4 flex items-center md:ml-6" />
+        <div class="ml-4 flex items-center lg:ml-6" />
       </div>
-      <div class="-mr-2 flex md:hidden">
+      <div class="-mr-2 flex lg:hidden">
         <button
           class="text-gray-800 dark:text-white hover:text-gray-300 inline-flex items-center justify-center p-2 rounded-md focus:outline-none"
           aria-label="show menu"

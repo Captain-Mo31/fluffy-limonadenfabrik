@@ -12,7 +12,7 @@
 <p class="text-center dark:text-white text-5xl font-apfel p-7">Aktuelles:</p>
 
 <div
-  class="overflow-hidden shadow-lg  dark:bg-gray-800 rounded-lg h-auto w-10/12 md:w-7/12 cursor-pointer m-auto "
+  class="overflow-hidden shadow-lg  dark:bg-gray-800 rounded-lg h-auto w-10/12 md:w-7/12 cursor-pointer m-auto  "
 >
   <img
     alt="Dartspiel Foto"
@@ -68,3 +68,6 @@
     </sub>
   </div>
 </div>
+
+<div class="pb-10" />
+<div class="pb-10" />

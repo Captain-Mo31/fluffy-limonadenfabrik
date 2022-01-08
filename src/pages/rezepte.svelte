@@ -69,11 +69,13 @@
       <p class="text-black dark:text-white text-xl mb-2 text-center">
         Der schnelle Läufer
       </p>
-      <p class="text-black dark:text-white font-light text-md">
+      <p class="text-black dark:text-white font-light text-md  bg-white">
         Hierfür benötigen Sie eine Limette, etwas Kümmel und Fluffy Bitterlemon.
         Limette waschen und kleinschneiden, etwas Kümmel hinzugeben und zum
         Abschluss mit Fluffy Bitterlemon auffüllen. Mmmh, das schmeckt und gibt
         starke Beine.
+        <br />
+        <br />
       </p>
     </div>
   </div>
@@ -115,9 +117,18 @@
       <p class="text-black dark:text-white text-xl mb-2 text-center">
         Weitere Rezepte folgen...
       </p>
-      <p class="text-black dark:text-white font-light text-md">
+      <p class="text-black dark:text-white font-light text-md bg-white">
         Wir werden weitere bald weitere Rezepte hinzufügen
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </p>
     </div>
   </div>
 </div>
+<div class="pb-10" />
+<div class="pb-10" />
